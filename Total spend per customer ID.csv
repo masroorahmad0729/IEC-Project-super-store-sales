@@ -1,0 +1,3210 @@
+Country,Customer_ID,total_spend
+Switzerland,CM-12115,322.0
+Switzerland,MG-17650,635.0
+Switzerland,SS-20410,32.0
+Switzerland,JL-15175,147.0
+Ireland,MP-17965,298.0
+Ireland,PB-18805,311.0
+Ireland,PM-18940,23.0
+Ireland,CS-11950,776.0
+Ireland,NS-18505,640.0
+Ireland,MH-17620,1082.0
+Ireland,KD-16615,561.0
+Ireland,TB-21055,776.0
+Ireland,BP-11155,268.0
+Ireland,SS-20590,489.0
+Norway,MM-17920,153.0
+Norway,DG-13300,52.0
+Norway,PF-19225,244.0
+Norway,AG-10300,636.0
+Norway,KL-16645,320.0
+Norway,GR-14560,1039.0
+Norway,GH-14425,152.0
+Norway,MS-17770,508.0
+Norway,SP-20620,696.0
+Norway,BF-11275,840.0
+Norway,BW-11110,290.0
+Norway,EB-13750,848.0
+Norway,JS-15880,562.0
+Norway,GM-14440,403.0
+Norway,AB-10060,784.0
+Norway,BF-11170,157.0
+Norway,BD-11500,121.0
+Switzerland,BT-11395,147.0
+Switzerland,LD-16855,1141.0
+Switzerland,TM-21010,499.0
+Portugal,NS-18640,275.0
+Portugal,DB-13060,186.0
+Spain,BC-11125,2562.0
+Spain,FO-14305,542.0
+Spain,KN-16450,357.0
+Spain,CM-11815,46.0
+Spain,BS-11665,292.0
+Germany,Dl-13600,229.0
+Germany,DR-12880,1526.0
+Germany,JP-16135,56.0
+Germany,JH-15820,5962.0
+Germany,JP-15460,709.0
+Germany,VP-21760,1402.0
+Germany,FW-14395,1497.0
+Germany,PC-19000,2606.0
+Germany,NP-18670,5626.0
+Germany,BD-11635,936.0
+Germany,ME-18010,386.0
+Germany,BB-11545,5612.0
+Germany,RR-19525,1612.0
+Germany,NK-18490,275.0
+Germany,TG-21310,990.0
+Germany,FO-14305,2712.0
+Germany,JE-15475,423.0
+Germany,RM-19375,531.0
+Germany,LD-16855,498.0
+Germany,GH-14665,2294.0
+Germany,CL-12565,964.0
+Germany,SC-20725,2276.0
+Germany,PS-18760,4453.0
+Germany,RR-19315,910.0
+Germany,KT-16480,96.0
+Germany,PN-18775,830.0
+Germany,DL-13495,2042.0
+Germany,SJ-20500,164.0
+Germany,NF-18595,20.0
+Germany,RO-19780,1184.0
+Germany,SC-20575,872.0
+Germany,TS-21610,1309.0
+Germany,RM-19750,2311.0
+Germany,GG-14650,4043.0
+Germany,VM-21835,530.0
+Germany,CS-12460,3424.0
+Germany,ON-18715,15.0
+Germany,BF-11005,1220.0
+Germany,TB-21055,269.0
+Germany,MG-17680,155.0
+Germany,DB-13615,3542.0
+Germany,MC-17425,291.0
+Germany,DO-13435,64.0
+Germany,JC-15385,806.0
+Germany,PF-19225,1740.0
+Germany,JG-15115,131.0
+Germany,FH-14275,187.0
+Germany,EB-13840,2301.0
+Germany,BP-11050,307.0
+Germany,BT-11395,342.0
+Germany,RA-19885,122.0
+Germany,BE-11410,2083.0
+Italy,GA-14725,488.0
+Italy,LC-16960,1593.0
+Italy,CD-12790,17.0
+Italy,CC-12100,2388.0
+Italy,HW-14935,432.0
+Italy,TB-21520,151.0
+Italy,RK-19300,403.0
+Italy,KH-16330,223.0
+Italy,HM-14980,654.0
+Italy,MP-17965,249.0
+Italy,TC-21535,901.0
+Italy,SD-20485,225.0
+Italy,JK-15730,3358.0
+Italy,TS-21505,41.0
+Italy,SV-20815,569.0
+Italy,MZ-17335,1137.0
+Italy,NC-18625,1076.0
+Italy,Dp-13240,899.0
+Italy,BN-11470,1679.0
+Italy,MS-17770,80.0
+Italy,GP-14740,10.0
+Italy,BD-11620,808.0
+Italy,GD-14590,2103.0
+Italy,JG-15805,1180.0
+Italy,CD-11920,290.0
+Italy,LT-16765,1933.0
+Italy,HG-15025,86.0
+Italy,BT-11485,950.0
+Italy,CK-12205,3145.0
+Italy,DP-13165,1091.0
+Italy,JF-15490,18.0
+Italy,TM-21490,233.0
+Italy,TP-21565,329.0
+Italy,AS-10045,571.0
+Italy,JF-15295,132.0
+Italy,TH-21100,407.0
+Italy,JK-15205,875.0
+Italy,MM-18055,319.0
+Italy,GT-14635,71.0
+Italy,BF-11215,360.0
+Italy,BO-11425,56.0
+Italy,EB-13975,1365.0
+Italy,LR-16915,1406.0
+Italy,DB-13405,274.0
+Italy,ZC-21910,4048.0
+Italy,AH-10195,1428.0
+Italy,MH-18115,2252.0
+Italy,DJ-13510,1053.0
+Italy,NM-18520,824.0
+Italy,JR-15700,626.0
+Italy,GB-14575,85.0
+Italy,MO-17950,1498.0
+Italy,RF-19345,90.0
+Italy,AG-10495,1423.0
+Italy,JK-16090,985.0
+Italy,AR-10510,3106.0
+Italy,EP-13915,16.0
+Italy,RP-19855,623.0
+Italy,RD-19720,244.0
+Italy,AB-10255,9.0
+Italy,SC-20260,226.0
+Italy,PN-18775,190.0
+Italy,DJ-13420,4354.0
+Italy,PB-19105,251.0
+Italy,JM-15655,2871.0
+Italy,RL-19615,352.0
+Italy,JF-15190,1780.0
+Italy,HE-14800,714.0
+Italy,JO-15145,314.0
+Italy,SB-20185,3396.0
+Italy,CM-12190,861.0
+Italy,KB-16240,191.0
+Italy,JF-15565,1025.0
+Italy,AH-10075,641.0
+Italy,MP-18175,385.0
+Italy,ST-20530,465.0
+Italy,AG-10675,243.0
+Italy,JB-15400,4302.0
+Italy,GH-14425,1809.0
+Italy,JB-16000,1484.0
+Italy,DK-12985,257.0
+Italy,RA-19945,1696.0
+Italy,XP-21865,1243.0
+Italy,AI-10855,156.0
+Belgium,JC-16105,2910.0
+Belgium,AS-10285,299.0
+Belgium,AH-10075,1273.0
+Belgium,MG-18205,1086.0
+Belgium,VT-21700,250.0
+Portugal,CS-11950,73.0
+Portugal,KT-16480,63.0
+Portugal,JM-16195,18.0
+Portugal,MW-18235,266.0
+Portugal,LC-16930,199.0
+Portugal,CM-12385,509.0
+Portugal,JK-16090,109.0
+Portugal,KH-16690,170.0
+Portugal,ND-18370,30.0
+Portugal,SJ-20500,128.0
+Austria,LA-16780,1325.0
+Austria,NF-18385,2991.0
+Austria,AF-10885,942.0
+Austria,TG-21310,687.0
+Austria,MS-17530,822.0
+Austria,MY-18295,2354.0
+United Kingdom,BG-11740,1606.0
+United Kingdom,PW-19240,172.0
+United Kingdom,CV-12295,368.0
+United Kingdom,RP-19855,659.0
+United Kingdom,CA-12265,7838.0
+United Kingdom,LF-17185,1332.0
+United Kingdom,EH-14125,641.0
+United Kingdom,SJ-20125,925.0
+United Kingdom,MH-17440,409.0
+United Kingdom,JB-16045,129.0
+United Kingdom,AW-10930,3351.0
+United Kingdom,CC-12145,22.0
+United Kingdom,EB-13975,3317.0
+United Kingdom,RC-19825,1736.0
+United Kingdom,MF-17665,1810.0
+United Kingdom,BT-11305,349.0
+United Kingdom,MA-17995,51.0
+Italy,PV-18985,57.0
+Italy,AA-10645,440.0
+Italy,VG-21790,1523.0
+Italy,EM-13825,696.0
+Italy,AG-10300,2104.0
+Italy,Dl-13600,83.0
+Italy,AB-10105,616.0
+Italy,KA-16525,1377.0
+Italy,TH-21235,614.0
+Italy,CR-12580,1538.0
+Italy,BE-11335,1016.0
+Italy,AS-10285,2615.0
+Italy,RO-19780,124.0
+Italy,KH-16690,322.0
+Italy,CM-11815,1047.0
+Italy,JH-16180,4175.0
+Italy,BV-11245,248.0
+Italy,CB-12535,1891.0
+Italy,WB-21850,254.0
+Italy,TG-21640,64.0
+Italy,AS-10240,1149.0
+Italy,DB-13360,37.0
+Italy,MC-17605,562.0
+Italy,HA-14905,1973.0
+Italy,JC-15385,95.0
+Italy,AF-10885,1154.0
+Italy,NM-18445,259.0
+Italy,JM-15865,2001.0
+Italy,TS-21430,1207.0
+Italy,DM-13015,1555.0
+Italy,DO-13645,842.0
+Italy,DN-13690,148.0
+Italy,AA-10375,470.0
+Italy,TB-21250,343.0
+Italy,SP-20620,233.0
+Italy,SC-20725,603.0
+Italy,GH-14485,479.0
+Italy,LF-17185,319.0
+Portugal,PK-19075,341.0
+Germany,AR-10405,1353.0
+Germany,DL-13330,2546.0
+Germany,DK-13150,5481.0
+Germany,CM-11815,1813.0
+Germany,CK-12325,405.0
+Germany,ST-20530,187.0
+Germany,DB-13120,1725.0
+Germany,LO-17170,2163.0
+Germany,DP-13165,2985.0
+Germany,CD-12790,4020.0
+Germany,TM-21010,3481.0
+Germany,HK-14890,2003.0
+Germany,JL-15235,75.0
+Germany,ZD-21925,1303.0
+Germany,DM-13015,1132.0
+Germany,MS-17830,768.0
+Germany,EB-13870,283.0
+Germany,MH-17440,2105.0
+Germany,MP-17965,1118.0
+Germany,TP-21565,247.0
+Germany,MF-17665,229.0
+Germany,LT-17110,778.0
+Germany,BT-11530,1278.0
+Germany,SS-20590,683.0
+Germany,KM-16375,4310.0
+Germany,DP-13000,2023.0
+Germany,BE-11335,843.0
+Germany,CS-11860,83.0
+Germany,DW-13585,394.0
+Germany,KM-16660,2716.0
+Germany,MM-17260,952.0
+Germany,LA-16780,1358.0
+Germany,NP-18700,392.0
+Germany,SC-20680,160.0
+Germany,SF-20065,1596.0
+Germany,SC-20800,2730.0
+Germany,RP-19855,1672.0
+Germany,MZ-17515,271.0
+Germany,LR-17035,5082.0
+Germany,RP-19270,37.0
+Germany,TB-21400,545.0
+Germany,DB-13210,1809.0
+Germany,DJ-13420,2337.0
+Germany,DM-12955,1234.0
+Germany,AD-10180,39.0
+Germany,ZC-21910,5285.0
+Germany,NG-18355,630.0
+Germany,FM-14380,42.0
+Germany,BH-11710,2944.0
+Germany,MV-18190,607.0
+Germany,JG-15805,1803.0
+Germany,MO-17950,563.0
+Germany,AC-10660,512.0
+Germany,AA-10315,68.0
+Germany,PC-18745,657.0
+Germany,BD-11560,2497.0
+Germany,JS-15595,935.0
+Germany,CC-12685,779.0
+Germany,GH-14425,1182.0
+Germany,DL-12865,41.0
+Germany,GT-14755,748.0
+Germany,CC-12220,220.0
+Germany,LB-16795,285.0
+Germany,CM-12235,161.0
+Germany,JC-16105,311.0
+Germany,RB-19360,30.0
+Germany,JF-15295,509.0
+Germany,TG-21640,67.0
+Germany,DV-13045,27.0
+Germany,JE-15610,181.0
+Germany,KB-16405,2081.0
+Germany,NF-18475,6026.0
+Germany,AI-10855,822.0
+Germany,TC-21295,3566.0
+Germany,DR-12940,2821.0
+Germany,SK-19990,517.0
+Germany,VP-21730,1052.0
+Germany,RA-19285,2927.0
+Germany,MH-17620,1427.0
+Germany,MD-17860,814.0
+Germany,JH-15985,25.0
+Germany,MS-17530,315.0
+Germany,MG-17650,714.0
+Germany,RB-19795,551.0
+Germany,TA-21385,4478.0
+Germany,AS-10090,31.0
+Germany,JW-15955,1329.0
+Germany,DE-13255,292.0
+Germany,YS-21880,2866.0
+Germany,AC-10420,172.0
+Germany,SR-20425,3031.0
+Germany,KL-16645,925.0
+Germany,MM-18280,1166.0
+Germany,AJ-10780,936.0
+Germany,AS-10240,38.0
+Germany,JK-15205,414.0
+Germany,DW-13540,695.0
+Germany,JF-15415,1391.0
+Germany,CA-12310,7.0
+Germany,BF-11215,1067.0
+Germany,ML-18040,157.0
+Germany,EM-14065,5503.0
+Germany,DJ-13510,1795.0
+Germany,LL-16840,1209.0
+Germany,KC-16540,137.0
+Germany,DM-13345,2120.0
+Ireland,SU-20665,122.0
+Ireland,GB-14530,710.0
+Ireland,JR-15700,20.0
+Ireland,KH-16630,87.0
+Ireland,TG-21310,51.0
+Ireland,RB-19645,89.0
+Ireland,RB-19570,96.0
+Ireland,EM-13960,1995.0
+Ireland,SB-20185,797.0
+Ireland,RB-19705,37.0
+Ireland,MT-17815,134.0
+Ireland,RW-19630,60.0
+Ireland,CM-12385,185.0
+Ireland,CG-12040,299.0
+Ireland,MG-17875,306.0
+Ireland,RB-19330,248.0
+Ireland,WB-21850,115.0
+Ireland,AB-10105,163.0
+Ireland,DL-12865,508.0
+Ireland,RH-19600,36.0
+Ireland,CL-11890,135.0
+Ireland,JJ-15760,503.0
+Ireland,AS-10225,13.0
+Ireland,CM-11935,70.0
+Ireland,DN-13690,450.0
+Ireland,SD-20485,537.0
+Ireland,AS-10090,166.0
+Ireland,TD-20995,35.0
+Ireland,KB-16405,1421.0
+Ireland,DP-13000,340.0
+Ireland,BS-11665,355.0
+Ireland,BD-11770,49.0
+Ireland,LF-17185,682.0
+Ireland,DK-12985,26.0
+Ireland,NL-18310,51.0
+Ireland,BO-11350,122.0
+Ireland,BS-11590,88.0
+Ireland,DM-13525,74.0
+Switzerland,JA-15970,1101.0
+Switzerland,KC-16540,34.0
+Switzerland,LB-16735,131.0
+Switzerland,RD-19930,15.0
+Switzerland,ME-17725,584.0
+Portugal,JS-15880,182.0
+Portugal,SS-20140,3400.0
+Portugal,ZC-21910,34.0
+Portugal,MS-17365,342.0
+Portugal,MY-17380,94.0
+Portugal,BB-11545,223.0
+Portugal,HA-14905,20.0
+Portugal,BD-11500,581.0
+Portugal,LW-16825,40.0
+Portugal,AR-10405,570.0
+Portugal,RE-19450,38.0
+Portugal,EM-13960,679.0
+Portugal,MS-17770,47.0
+Portugal,SW-20350,69.0
+Portugal,LF-17185,80.0
+Portugal,SG-20470,143.0
+Portugal,AB-10600,2238.0
+Portugal,LH-17155,1614.0
+Portugal,MH-18025,183.0
+Portugal,AR-10345,237.0
+Portugal,FA-14230,29.0
+Belgium,LR-16915,86.0
+Belgium,BS-11665,398.0
+Spain,TB-21520,866.0
+Spain,MM-18055,420.0
+Spain,AA-10315,2713.0
+Spain,PF-19120,92.0
+Spain,CR-12820,59.0
+Spain,MO-17500,468.0
+Spain,ML-18040,222.0
+Spain,RA-19285,4978.0
+Spain,DN-13690,2422.0
+Spain,JR-15670,758.0
+Spain,BE-11335,406.0
+Spain,PB-18805,237.0
+Spain,SR-20740,3051.0
+Spain,MO-17950,361.0
+Spain,NS-18640,483.0
+Spain,NK-18490,83.0
+Spain,VB-21745,1176.0
+Spain,CL-12565,83.0
+Spain,NG-18355,165.0
+Spain,PF-19225,678.0
+Spain,HJ-14875,1095.0
+Spain,SU-20665,184.0
+Spain,ND-18460,846.0
+Spain,EM-13810,106.0
+Spain,GW-14605,97.0
+Spain,CP-12340,309.0
+Spain,NC-18535,327.0
+Spain,JL-15235,421.0
+Spain,FM-14215,136.0
+Spain,MV-18190,1077.0
+Spain,AG-10900,262.0
+Spain,TP-21130,880.0
+Spain,DL-13495,1496.0
+Spain,DW-13540,2690.0
+Spain,AH-10690,1249.0
+Spain,MG-17695,95.0
+Spain,KB-16240,618.0
+Spain,TB-21595,1060.0
+Spain,DL-13315,440.0
+Spain,TC-21475,564.0
+Spain,LR-16915,1324.0
+Spain,PS-18760,746.0
+Spain,MP-17470,368.0
+Spain,DJ-13630,749.0
+Spain,MY-17380,2587.0
+Spain,ME-18010,893.0
+Spain,PN-18775,446.0
+Spain,ES-14020,2534.0
+Spain,ST-20530,304.0
+Spain,DB-13210,2523.0
+Spain,SS-20515,530.0
+Spain,ED-13885,30.0
+Spain,DA-13450,522.0
+Spain,LE-16810,2564.0
+Spain,SG-20470,143.0
+Spain,SP-20650,1163.0
+Spain,DS-13180,615.0
+Spain,OT-18730,2906.0
+Spain,NB-18655,2781.0
+Spain,DB-13660,2538.0
+Spain,LS-17230,728.0
+Spain,DD-13570,1087.0
+Spain,SO-20335,339.0
+Spain,BP-11095,575.0
+Spain,RR-19525,66.0
+Spain,MC-17425,135.0
+Spain,VP-21760,3281.0
+Spain,MM-18280,1629.0
+Spain,FM-14380,40.0
+Spain,MG-18205,1315.0
+Spain,TM-21010,226.0
+Spain,PO-18850,148.0
+Spain,CS-12490,159.0
+Spain,JW-16075,695.0
+Spain,RB-19570,4698.0
+Spain,CB-12535,40.0
+Spain,DK-13150,17.0
+Spain,SC-20800,55.0
+Spain,SL-20155,2449.0
+Spain,TC-20980,196.0
+Spain,SV-20785,528.0
+Spain,DR-12940,497.0
+Spain,CC-12370,304.0
+Spain,BE-11410,999.0
+Spain,EH-14125,231.0
+Spain,DK-13375,1399.0
+Spain,KN-16705,532.0
+Spain,CJ-11875,142.0
+Spain,DK-12835,4208.0
+Spain,JF-15295,4328.0
+Spain,YC-21895,1265.0
+Spain,JM-15265,299.0
+Spain,MW-18220,771.0
+Spain,TT-21070,783.0
+Spain,RR-19315,1384.0
+Spain,DM-13345,280.0
+Spain,JH-15985,1927.0
+Spain,NP-18325,588.0
+Spain,JC-15385,2393.0
+Spain,KH-16690,981.0
+Spain,KH-16510,164.0
+Spain,GZ-14470,292.0
+Spain,AS-10045,71.0
+Spain,CG-12040,74.0
+Spain,BF-11080,212.0
+Spain,AR-10825,69.0
+Spain,JB-15400,396.0
+Spain,MD-17860,806.0
+Spain,JK-16120,62.0
+Spain,RP-19390,41.0
+Spain,JK-15370,389.0
+Spain,BS-11755,1328.0
+Spain,DV-13045,451.0
+Italy,MD-17860,52.0
+Italy,DP-13390,408.0
+Italy,ME-17320,3547.0
+Italy,AR-10825,1814.0
+Italy,BS-11755,26.0
+Spain,DJ-13510,994.0
+Spain,DE-13255,41.0
+Spain,RP-19855,345.0
+Spain,CT-11995,847.0
+Spain,PB-19150,50.0
+Spain,RD-19585,3890.0
+Spain,EL-13735,1698.0
+Spain,IL-15100,262.0
+Spain,DG-13300,898.0
+Spain,JP-16135,1607.0
+Spain,SG-20605,98.0
+Spain,BM-11650,904.0
+Spain,MH-17440,435.0
+Spain,HP-14815,638.0
+Spain,EM-14065,15.0
+Spain,JJ-15760,559.0
+Germany,KH-16630,839.0
+Germany,EJ-14155,47.0
+Germany,CK-12595,1490.0
+Germany,BD-11320,142.0
+Germany,GM-14695,2306.0
+Germany,FP-14320,10.0
+Germany,EH-13990,693.0
+Germany,CA-11965,2390.0
+Germany,EP-13915,1336.0
+Germany,EB-14110,3758.0
+Germany,XP-21865,100.0
+Germany,AB-10165,2434.0
+Germany,CD-12280,554.0
+Germany,EM-14140,455.0
+Germany,EC-14050,37.0
+Germany,ML-18265,5211.0
+Germany,VD-21670,484.0
+Germany,LS-16975,704.0
+Germany,BD-11725,51.0
+Germany,MC-17605,1325.0
+Germany,AA-10480,132.0
+Germany,AF-10885,119.0
+Germany,KH-16690,21.0
+Germany,CS-12250,1850.0
+Germany,SN-20710,38.0
+Germany,AG-10270,58.0
+Germany,JK-16090,1284.0
+Italy,JS-15940,28.0
+Italy,FC-14335,439.0
+Italy,TN-21040,661.0
+Italy,DP-13105,22.0
+Italy,PO-18865,2108.0
+Italy,LC-17140,2423.0
+Italy,BF-11170,1578.0
+Italy,PC-18745,81.0
+Italy,SC-20695,102.0
+Italy,BW-11065,714.0
+Italy,ML-17395,118.0
+Italy,AB-10015,1955.0
+Italy,AG-10765,1150.0
+Italy,CB-12415,794.0
+Italy,JL-15835,20.0
+Italy,AM-10360,18.0
+Italy,TP-21130,512.0
+Italy,JA-15970,152.0
+Italy,EM-13810,1219.0
+Italy,JG-15115,2674.0
+Italy,KB-16585,576.0
+Italy,AF-10870,660.0
+Italy,CS-12400,190.0
+Italy,SF-20200,194.0
+Italy,MV-17485,1288.0
+Italy,AM-10705,32.0
+Italy,DV-13045,243.0
+Italy,KD-16615,263.0
+Italy,TM-21010,630.0
+Italy,TR-21325,469.0
+Italy,ED-13885,1029.0
+Italy,YC-21895,69.0
+Italy,EB-13870,592.0
+Italy,TW-21025,41.0
+Italy,SS-20515,19.0
+Italy,HA-14920,300.0
+Italy,JF-15355,1467.0
+Italy,MA-17560,193.0
+Italy,CY-12745,809.0
+Italy,SL-20155,455.0
+Italy,MH-18025,1791.0
+Italy,VG-21805,413.0
+Italy,SS-20140,1030.0
+Italy,FH-14365,299.0
+Italy,CJ-12010,232.0
+Italy,BT-11680,233.0
+Italy,JK-15325,255.0
+Italy,MH-17290,53.0
+Italy,DK-13225,420.0
+Sweden,MO-17950,304.0
+Sweden,CS-11845,205.0
+Sweden,MZ-17515,1519.0
+Sweden,DF-13135,15.0
+Sweden,KH-16690,194.0
+Austria,ND-18460,187.0
+Austria,JM-15655,242.0
+Austria,ER-13855,113.0
+Austria,HF-14995,147.0
+Austria,CC-12370,60.0
+Austria,JK-15370,126.0
+Austria,TC-20980,666.0
+Italy,NC-18535,106.0
+Italy,LW-16990,1293.0
+Italy,BD-11500,366.0
+Italy,CK-12595,492.0
+Italy,CM-12115,3160.0
+Italy,DR-12940,44.0
+Italy,CS-12460,152.0
+Italy,SM-20005,462.0
+Italy,SM-20950,17.0
+Italy,GM-14440,491.0
+Italy,KE-16420,149.0
+Italy,MW-18220,217.0
+Italy,GH-14410,694.0
+Italy,AP-10915,161.0
+Italy,JL-15235,1296.0
+Italy,MC-18100,646.0
+Italy,NS-18640,741.0
+Italy,AG-10525,1101.0
+Italy,PG-18895,1049.0
+Italy,BP-11230,577.0
+Italy,SB-20290,2740.0
+Italy,SC-20770,372.0
+Italy,MG-17875,83.0
+Italy,AC-10615,2028.0
+Austria,SO-20335,2111.0
+Austria,RH-19600,323.0
+Austria,AR-10345,27.0
+Austria,LD-16855,415.0
+Austria,VP-21760,94.0
+Austria,SW-20245,1285.0
+Austria,RB-19795,198.0
+Austria,TS-21370,146.0
+Austria,TS-21160,36.0
+Austria,FG-14260,320.0
+Austria,BF-10975,779.0
+Austria,JE-15715,14.0
+Austria,LW-16825,69.0
+Austria,CM-11935,510.0
+Austria,BD-11560,138.0
+Austria,IG-15085,45.0
+Austria,JF-15490,18.0
+Austria,AH-10030,1101.0
+Austria,ME-17320,397.0
+Austria,EB-14110,845.0
+Austria,DL-12865,719.0
+Austria,AG-10765,150.0
+Austria,MC-18100,583.0
+Austria,SC-20020,135.0
+Austria,KL-16555,1965.0
+Austria,AR-10405,249.0
+Austria,CR-12820,487.0
+Austria,MC-17275,64.0
+Austria,MT-17815,295.0
+Austria,LE-16810,103.0
+Austria,GM-14440,163.0
+Austria,SC-20695,1429.0
+Austria,FO-14305,50.0
+Austria,AA-10645,274.0
+Austria,BD-11620,242.0
+Austria,PO-19180,23.0
+Austria,TH-21115,876.0
+Austria,MB-17305,511.0
+Austria,SJ-20215,494.0
+Austria,ML-18265,104.0
+Austria,MK-17905,874.0
+Austria,LS-16945,488.0
+Austria,BD-11770,258.0
+Austria,BB-11545,432.0
+Austria,KD-16495,54.0
+Austria,DW-13585,271.0
+Austria,JM-15250,28.0
+Austria,BD-11725,67.0
+Austria,TS-21655,239.0
+Austria,TG-21640,481.0
+Austria,LB-16735,391.0
+Austria,DG-13300,607.0
+Austria,MG-17680,1237.0
+Austria,JE-16165,574.0
+Austria,BM-11785,1029.0
+Austria,TS-21085,589.0
+Austria,DW-13480,707.0
+Austria,NG-18430,24.0
+Austria,DB-13360,148.0
+Austria,JF-15355,338.0
+Austria,RM-19675,401.0
+Austria,CS-11860,2505.0
+Austria,HZ-14950,205.0
+Austria,RS-19765,2147.0
+Austria,BE-11455,118.0
+Austria,TB-21625,1315.0
+Austria,KD-16615,57.0
+Austria,BF-11215,44.0
+Austria,MB-18085,152.0
+Austria,SC-20845,2056.0
+Austria,RA-19885,958.0
+Austria,CM-12715,147.0
+Austria,DK-13090,497.0
+Austria,AG-10270,128.0
+Austria,MG-18205,586.0
+Austria,GA-14515,433.0
+Austria,KM-16720,893.0
+Austria,JG-15805,151.0
+Austria,MH-17785,50.0
+Austria,MF-18250,216.0
+Austria,MV-17485,499.0
+Austria,SR-20425,1150.0
+Austria,TB-21595,426.0
+Austria,SA-20830,571.0
+Austria,SS-20875,339.0
+Austria,SE-20110,1115.0
+Austria,AT-10435,1605.0
+Austria,CM-12445,1658.0
+Austria,JJ-15760,1394.0
+Austria,GH-14410,265.0
+Austria,AH-10120,310.0
+Austria,TB-21175,144.0
+Austria,SH-20635,597.0
+Austria,PS-18760,553.0
+Austria,KH-16360,272.0
+Austria,CY-12745,257.0
+Austria,AH-10690,120.0
+Austria,JK-15640,3300.0
+Italy,RE-19450,191.0
+Italy,RH-19510,85.0
+Italy,BF-11020,2420.0
+Italy,BG-11035,3421.0
+Italy,BD-11635,196.0
+Italy,EH-13765,2496.0
+Italy,KH-16510,563.0
+Belgium,YC-21895,72.0
+Belgium,BE-11335,58.0
+Belgium,LH-16750,407.0
+Belgium,DM-12955,151.0
+Belgium,HE-14800,274.0
+Belgium,SN-20710,1386.0
+Belgium,MM-17260,166.0
+Belgium,IG-15085,198.0
+Belgium,CT-11995,190.0
+Belgium,RB-19570,615.0
+Belgium,NP-18685,105.0
+Belgium,LW-16825,1038.0
+Belgium,MD-17860,305.0
+Belgium,TT-21070,541.0
+Belgium,MM-18280,210.0
+Belgium,KH-16690,147.0
+Belgium,JH-16180,283.0
+Belgium,RD-19585,1698.0
+Belgium,KC-16255,1002.0
+Belgium,JD-15895,2147.0
+Belgium,RF-19840,3800.0
+Germany,AH-10210,1380.0
+Germany,CS-11845,71.0
+Germany,PF-19165,1243.0
+Germany,BF-11170,1788.0
+Germany,SJ-20215,651.0
+Germany,SP-20920,8484.0
+Germany,PO-18865,1118.0
+Germany,SH-20395,32.0
+Germany,KB-16585,3428.0
+Germany,MH-18115,54.0
+Germany,SH-19975,32.0
+Germany,LM-17065,1043.0
+Germany,IM-15070,2118.0
+Germany,SS-20410,275.0
+Germany,BV-11245,2133.0
+Germany,SC-20020,50.0
+Germany,KD-16495,664.0
+Germany,FH-14350,1357.0
+Germany,RD-19660,2447.0
+Germany,TT-21220,563.0
+Germany,RD-19810,752.0
+Germany,AJ-10960,1471.0
+Germany,MY-18295,3582.0
+Germany,TC-21475,2606.0
+Germany,TR-21325,680.0
+Germany,HG-15025,1907.0
+Germany,JP-15520,1250.0
+Germany,DJ-13630,898.0
+Germany,EM-14200,1126.0
+Germany,AS-10135,1234.0
+Germany,KB-16600,121.0
+Germany,BN-11515,216.0
+Germany,JF-15565,1779.0
+Germany,GB-14575,1465.0
+Germany,GA-14515,65.0
+Germany,SW-20245,891.0
+Germany,JK-16120,113.0
+Germany,TS-21370,1704.0
+Germany,GR-14560,377.0
+Germany,CD-11980,1605.0
+Germany,TD-20995,2320.0
+Germany,MH-17290,1218.0
+Germany,TB-21625,63.0
+Germany,BT-11305,2001.0
+Germany,MG-17875,2141.0
+Germany,MS-17770,1625.0
+Germany,TB-21250,2185.0
+Germany,CV-12295,302.0
+Germany,AB-10600,1539.0
+Germany,EH-14125,666.0
+Germany,SH-20635,3863.0
+Germany,JD-16150,1140.0
+Germany,KW-16435,1496.0
+Germany,NP-18325,1924.0
+Germany,EH-14185,2818.0
+Germany,BS-11365,657.0
+Germany,PT-19090,791.0
+Germany,PR-18880,1591.0
+Germany,AG-10900,93.0
+Germany,CS-12355,148.0
+Germany,RC-19960,1755.0
+Germany,CC-12145,4278.0
+Germany,RW-19540,39.0
+Germany,SC-20380,257.0
+Germany,EM-14095,358.0
+Germany,DB-13270,3151.0
+Germany,BE-11455,541.0
+Germany,NS-18640,1506.0
+Portugal,CS-12490,222.0
+Portugal,JG-15115,1674.0
+France,ML-17410,317.0
+France,KD-16270,2643.0
+France,KH-16510,88.0
+France,EJ-14155,431.0
+Netherlands,TB-21190,171.0
+Netherlands,DO-13645,13.0
+Netherlands,RM-19375,123.0
+Netherlands,LH-17020,329.0
+Netherlands,BD-11320,428.0
+Netherlands,MD-17860,16.0
+Netherlands,BD-11725,112.0
+Netherlands,CL-12565,39.0
+Netherlands,GD-14590,747.0
+United Kingdom,MS-17710,2697.0
+United Kingdom,HJ-14875,27.0
+United Kingdom,WB-21850,370.0
+United Kingdom,TB-21055,78.0
+United Kingdom,NP-18685,328.0
+United Kingdom,SC-20725,41.0
+United Kingdom,LP-17080,261.0
+United Kingdom,JO-15550,666.0
+United Kingdom,RB-19465,166.0
+United Kingdom,JM-15655,535.0
+United Kingdom,TS-21610,1728.0
+United Kingdom,HG-15025,161.0
+United Kingdom,JF-15565,2283.0
+United Kingdom,SP-20620,442.0
+United Kingdom,CS-12355,420.0
+United Kingdom,JH-15820,794.0
+United Kingdom,HL-15040,233.0
+United Kingdom,SR-20740,1851.0
+United Kingdom,MD-17860,472.0
+United Kingdom,KW-16435,3154.0
+United Kingdom,KD-16345,921.0
+United Kingdom,PM-19135,311.0
+United Kingdom,ER-13855,835.0
+United Kingdom,AS-10045,1561.0
+United Kingdom,IM-15070,1071.0
+United Kingdom,RL-19615,197.0
+United Kingdom,JB-15400,1823.0
+United Kingdom,LW-16825,2199.0
+United Kingdom,CL-12700,687.0
+United Kingdom,PB-19105,1004.0
+United Kingdom,VP-21730,562.0
+United Kingdom,TZ-21580,2478.0
+United Kingdom,TW-21025,1752.0
+United Kingdom,BP-11185,1569.0
+United Kingdom,MP-17470,791.0
+United Kingdom,BP-11290,41.0
+United Kingdom,EL-13735,1416.0
+United Kingdom,RF-19735,966.0
+United Kingdom,JE-15715,2424.0
+United Kingdom,EH-14185,197.0
+United Kingdom,MG-18145,5725.0
+United Kingdom,JS-15685,854.0
+United Kingdom,JB-16000,2508.0
+United Kingdom,LW-17125,539.0
+United Kingdom,EC-14050,106.0
+United Kingdom,SW-20455,276.0
+United Kingdom,CG-12520,1872.0
+United Kingdom,JG-15310,601.0
+United Kingdom,DB-13360,15.0
+United Kingdom,RB-19570,80.0
+United Kingdom,SC-20380,17.0
+United Kingdom,JR-15670,436.0
+United Kingdom,MC-17575,250.0
+United Kingdom,MM-18055,680.0
+United Kingdom,NG-18430,2288.0
+United Kingdom,EM-14200,2252.0
+United Kingdom,EM-14095,2674.0
+United Kingdom,EB-13930,2708.0
+United Kingdom,KW-16570,589.0
+United Kingdom,HP-14815,149.0
+United Kingdom,SF-20200,1540.0
+United Kingdom,AJ-10795,22.0
+United Kingdom,BN-11470,1934.0
+United Kingdom,CC-12685,1332.0
+United Kingdom,SG-20890,3652.0
+United Kingdom,AT-10735,38.0
+United Kingdom,SO-20335,1119.0
+United Kingdom,BP-11050,1232.0
+United Kingdom,CW-11905,4874.0
+United Kingdom,MS-17770,5187.0
+United Kingdom,KL-16645,1500.0
+United Kingdom,SM-20950,621.0
+United Kingdom,AC-10450,880.0
+United Kingdom,JH-15910,578.0
+United Kingdom,SD-20485,1594.0
+United Kingdom,LC-17050,294.0
+United Kingdom,KF-16285,738.0
+United Kingdom,RB-19330,1022.0
+United Kingdom,BD-11320,956.0
+United Kingdom,SC-20050,1308.0
+United Kingdom,KC-16675,2204.0
+United Kingdom,DL-13330,971.0
+United Kingdom,DO-13645,986.0
+United Kingdom,NF-18475,340.0
+United Kingdom,TP-21415,97.0
+United Kingdom,AD-10180,748.0
+United Kingdom,AF-10885,951.0
+United Kingdom,EB-13840,4628.0
+United Kingdom,CC-12220,1486.0
+United Kingdom,CC-12550,80.0
+United Kingdom,NF-18595,573.0
+United Kingdom,BD-11500,43.0
+United Kingdom,JK-15730,383.0
+United Kingdom,NF-18385,1423.0
+United Kingdom,JF-15355,63.0
+United Kingdom,DL-13315,2044.0
+United Kingdom,KM-16720,367.0
+United Kingdom,JP-15460,38.0
+United Kingdom,YC-21895,2862.0
+United Kingdom,JL-15235,224.0
+United Kingdom,TT-21265,251.0
+United Kingdom,RO-19780,385.0
+United Kingdom,AM-10360,5176.0
+United Kingdom,CP-12340,758.0
+United Kingdom,JP-16135,589.0
+United Kingdom,SC-20440,384.0
+United Kingdom,NR-18550,382.0
+United Kingdom,AH-10120,2240.0
+United Kingdom,JC-15385,2290.0
+United Kingdom,EH-13945,1795.0
+United Kingdom,BP-11155,5382.0
+United Kingdom,DM-12955,415.0
+United Kingdom,AB-10150,5532.0
+United Kingdom,SC-20230,1006.0
+United Kingdom,DS-13180,246.0
+United Kingdom,SR-20425,1554.0
+United Kingdom,BS-11800,560.0
+United Kingdom,TZ-21445,1242.0
+United Kingdom,AB-10255,221.0
+United Kingdom,PT-19090,284.0
+United Kingdom,HZ-14950,81.0
+United Kingdom,MT-17815,122.0
+United Kingdom,DB-13210,2212.0
+United Kingdom,KB-16315,172.0
+United Kingdom,FC-14335,225.0
+United Kingdom,AB-10060,2379.0
+United Kingdom,CS-11860,1307.0
+United Kingdom,RH-19555,874.0
+United Kingdom,CM-12445,41.0
+United Kingdom,TS-21655,2355.0
+United Kingdom,MS-17830,1694.0
+United Kingdom,HG-14965,62.0
+United Kingdom,SS-20515,618.0
+United Kingdom,MS-17530,2561.0
+United Kingdom,KH-16510,87.0
+United Kingdom,ND-18370,2325.0
+United Kingdom,AA-10315,2956.0
+United Kingdom,PB-19150,293.0
+United Kingdom,SC-20695,881.0
+United Kingdom,ML-18040,76.0
+United Kingdom,RC-19960,1041.0
+United Kingdom,FP-14320,75.0
+United Kingdom,JC-16105,1063.0
+United Kingdom,HD-14785,226.0
+United Kingdom,GH-14410,543.0
+United Kingdom,SC-20800,44.0
+United Kingdom,EH-14005,2554.0
+United Kingdom,CM-12715,259.0
+United Kingdom,JP-15520,969.0
+United Kingdom,PW-19030,3129.0
+United Kingdom,GH-14665,1295.0
+United Kingdom,MB-17305,567.0
+United Kingdom,EA-14035,1051.0
+United Kingdom,RD-19585,2220.0
+United Kingdom,MD-17350,676.0
+United Kingdom,GT-14710,7251.0
+United Kingdom,TB-21625,734.0
+United Kingdom,BV-11245,2143.0
+United Kingdom,AA-10480,457.0
+United Kingdom,JM-15580,209.0
+United Kingdom,LC-16930,256.0
+United Kingdom,LP-17095,906.0
+United Kingdom,DB-13555,560.0
+United Kingdom,MG-17890,1305.0
+United Kingdom,RE-19405,1122.0
+United Kingdom,KD-16495,954.0
+United Kingdom,SE-20110,81.0
+United Kingdom,SC-20575,426.0
+United Kingdom,BC-11125,1615.0
+United Kingdom,FA-14230,1323.0
+United Kingdom,VS-21820,335.0
+United Kingdom,OT-18730,1538.0
+United Kingdom,HK-14890,156.0
+United Kingdom,EM-13810,14.0
+United Kingdom,DK-13225,805.0
+United Kingdom,SC-20020,626.0
+United Kingdom,BW-11110,5034.0
+United Kingdom,SW-20350,1115.0
+United Kingdom,NP-18670,21.0
+United Kingdom,MS-17980,233.0
+United Kingdom,DR-12940,80.0
+United Kingdom,HR-14770,2707.0
+United Kingdom,JD-16150,1916.0
+United Kingdom,DK-12835,42.0
+United Kingdom,PJ-19015,2955.0
+United Kingdom,VB-21745,265.0
+United Kingdom,AG-10675,1058.0
+United Kingdom,GM-14695,2321.0
+United Kingdom,JM-15865,1317.0
+United Kingdom,MF-18250,1816.0
+United Kingdom,SM-20005,459.0
+United Kingdom,EM-14140,241.0
+United Kingdom,RD-19660,27.0
+United Kingdom,JJ-15445,299.0
+United Kingdom,PO-18850,1125.0
+United Kingdom,GK-14620,779.0
+United Kingdom,SC-20095,1328.0
+United Kingdom,GH-14485,3337.0
+United Kingdom,DB-13405,68.0
+United Kingdom,DB-13660,281.0
+United Kingdom,BD-11635,1777.0
+United Kingdom,DF-13135,1593.0
+United Kingdom,EG-13900,3740.0
+United Kingdom,FH-14350,1747.0
+United Kingdom,RA-19885,497.0
+United Kingdom,SL-20155,155.0
+United Kingdom,PS-18970,252.0
+United Kingdom,SC-20770,879.0
+United Kingdom,MH-17455,123.0
+United Kingdom,BE-11455,22.0
+United Kingdom,BH-11710,3019.0
+United Kingdom,DK-13375,62.0
+United Kingdom,ES-14080,202.0
+United Kingdom,RM-19675,1423.0
+United Kingdom,LC-17140,1357.0
+United Kingdom,CM-12160,389.0
+United Kingdom,JC-15340,1825.0
+United Kingdom,GP-14740,2339.0
+United Kingdom,CD-12790,187.0
+United Kingdom,AC-10660,79.0
+United Kingdom,AO-10810,1999.0
+United Kingdom,BE-11410,4541.0
+United Kingdom,TS-21370,2251.0
+United Kingdom,TP-21565,1323.0
+United Kingdom,AH-10195,317.0
+United Kingdom,BM-11785,64.0
+United Kingdom,CA-11965,41.0
+United Kingdom,TT-21070,533.0
+United Kingdom,AP-10915,118.0
+United Kingdom,ON-18715,1094.0
+United Kingdom,BS-11365,239.0
+United Kingdom,KL-16555,712.0
+United Kingdom,TB-21175,147.0
+United Kingdom,NC-18625,144.0
+United Kingdom,BF-11170,2148.0
+United Kingdom,MB-18085,373.0
+United Kingdom,TR-21325,67.0
+United Kingdom,CM-12190,45.0
+United Kingdom,EJ-14155,283.0
+United Kingdom,TC-21295,519.0
+United Kingdom,JG-15805,2730.0
+United Kingdom,BP-11095,188.0
+United Kingdom,ME-18010,44.0
+United Kingdom,MG-17875,1871.0
+United Kingdom,CC-12370,2710.0
+United Kingdom,TG-21640,1339.0
+United Kingdom,BP-11230,265.0
+United Kingdom,CK-12325,423.0
+United Kingdom,TB-21280,405.0
+United Kingdom,RW-19690,179.0
+United Kingdom,HH-15010,2282.0
+United Kingdom,CS-12400,106.0
+United Kingdom,PV-18985,31.0
+United Kingdom,JC-15775,178.0
+United Kingdom,LB-16795,6929.0
+United Kingdom,LD-16855,3274.0
+United Kingdom,IG-15085,248.0
+United Kingdom,SV-20785,433.0
+United Kingdom,LS-17245,96.0
+United Kingdom,JA-15970,2945.0
+United Kingdom,DL-13495,299.0
+United Kingdom,MC-17605,1271.0
+United Kingdom,VM-21835,418.0
+United Kingdom,DW-13540,613.0
+United Kingdom,DK-12985,561.0
+United Kingdom,LS-16945,146.0
+United Kingdom,SN-20560,1252.0
+United Kingdom,SC-20260,1382.0
+United Kingdom,MT-18070,1508.0
+United Kingdom,AH-10075,1243.0
+United Kingdom,BS-11590,627.0
+United Kingdom,TS-21205,298.0
+United Kingdom,JL-15175,1207.0
+United Kingdom,BD-11605,389.0
+United Kingdom,PB-19210,2191.0
+United Kingdom,JH-16180,34.0
+United Kingdom,BT-11395,1382.0
+United Kingdom,TM-21490,276.0
+United Kingdom,DV-13465,307.0
+United Kingdom,CL-12565,296.0
+United Kingdom,JM-15250,155.0
+United Kingdom,Dl-13600,505.0
+United Kingdom,NS-18505,564.0
+United Kingdom,PF-19165,736.0
+United Kingdom,RP-19390,890.0
+United Kingdom,NZ-18565,1520.0
+United Kingdom,RB-19795,674.0
+United Kingdom,TS-21340,836.0
+United Kingdom,ML-18265,228.0
+United Kingdom,SC-20305,117.0
+United Kingdom,EK-13795,385.0
+United Kingdom,PK-19075,474.0
+United Kingdom,AS-10225,2195.0
+United Kingdom,MV-18190,150.0
+United Kingdom,RS-19420,681.0
+United Kingdom,NC-18535,119.0
+United Kingdom,KB-16405,364.0
+United Kingdom,AH-10465,163.0
+United Kingdom,RP-19270,2567.0
+United Kingdom,ED-13885,227.0
+United Kingdom,MM-18280,251.0
+United Kingdom,GM-14455,905.0
+United Kingdom,CK-12595,208.0
+United Kingdom,MW-18235,790.0
+United Kingdom,RF-19840,389.0
+United Kingdom,RS-19870,521.0
+United Kingdom,TP-21130,857.0
+United Kingdom,TN-21040,156.0
+United Kingdom,DL-12865,425.0
+United Kingdom,AA-10645,1411.0
+United Kingdom,RH-19510,814.0
+United Kingdom,DB-12910,2082.0
+United Kingdom,AG-10330,1189.0
+United Kingdom,JK-16120,25.0
+United Kingdom,KN-16390,4672.0
+United Kingdom,NW-18400,827.0
+United Kingdom,NM-18445,467.0
+United Kingdom,BD-11560,2478.0
+United Kingdom,FH-14275,1879.0
+United Kingdom,SH-20635,1535.0
+United Kingdom,AG-10270,324.0
+United Kingdom,NK-18490,70.0
+United Kingdom,LS-17230,143.0
+United Kingdom,AG-10300,1059.0
+United Kingdom,AC-10420,410.0
+United Kingdom,JG-15160,8023.0
+United Kingdom,JL-15850,539.0
+United Kingdom,GD-14590,1707.0
+United Kingdom,YS-21880,46.0
+United Kingdom,VP-21760,1866.0
+United Kingdom,RK-19300,49.0
+United Kingdom,BK-11260,244.0
+United Kingdom,CS-12175,1314.0
+United Kingdom,EB-14110,1036.0
+United Kingdom,JJ-15760,231.0
+United Kingdom,AG-10765,290.0
+United Kingdom,AJ-10780,919.0
+United Kingdom,KH-16330,1232.0
+United Kingdom,DJ-13420,265.0
+United Kingdom,TM-21010,395.0
+United Kingdom,EM-13960,2630.0
+United Kingdom,HM-14980,813.0
+United Kingdom,PA-19060,728.0
+United Kingdom,Co-12640,865.0
+United Kingdom,TT-21460,356.0
+United Kingdom,RB-19360,32.0
+United Kingdom,KH-16360,117.0
+United Kingdom,DB-12970,320.0
+United Kingdom,KB-16240,58.0
+United Kingdom,BT-11530,292.0
+United Kingdom,MN-17935,1323.0
+United Kingdom,RW-19540,82.0
+United Kingdom,AH-10030,253.0
+United Kingdom,HM-14860,4011.0
+United Kingdom,AR-10345,565.0
+United Kingdom,CJ-11875,42.0
+United Kingdom,KD-16270,73.0
+United Kingdom,LD-17005,129.0
+United Kingdom,BM-11140,47.0
+United Kingdom,TB-21190,22.0
+United Kingdom,DD-13570,854.0
+United Kingdom,JE-15475,412.0
+United Kingdom,CS-12130,1200.0
+United Kingdom,JR-16210,1283.0
+United Kingdom,PO-18865,4180.0
+United Kingdom,BF-11275,608.0
+United Kingdom,BT-11440,441.0
+United Kingdom,KT-16465,362.0
+United Kingdom,PC-19000,1064.0
+United Kingdom,CR-12580,530.0
+United Kingdom,SF-20065,2152.0
+United Kingdom,SV-20935,289.0
+United Kingdom,LO-17170,902.0
+United Kingdom,SW-20245,1611.0
+United Kingdom,DP-13000,61.0
+United Kingdom,BT-11680,1266.0
+United Kingdom,SP-20860,31.0
+United Kingdom,TB-21520,119.0
+United Kingdom,JS-16030,237.0
+United Kingdom,RM-19375,1674.0
+United Kingdom,PF-19225,51.0
+United Kingdom,HF-14995,1406.0
+United Kingdom,NB-18580,70.0
+United Kingdom,DP-13165,658.0
+United Kingdom,NL-18310,67.0
+United Kingdom,AR-10825,17.0
+United Kingdom,GT-14635,1391.0
+United Kingdom,CA-12310,241.0
+United Kingdom,GG-14650,206.0
+United Kingdom,MM-17920,1622.0
+United Kingdom,AP-10720,1716.0
+United Kingdom,TH-21550,1415.0
+United Kingdom,CK-12205,1629.0
+United Kingdom,TT-21220,1789.0
+United Kingdom,PR-18880,1824.0
+United Kingdom,AM-10705,53.0
+United Kingdom,JK-15625,292.0
+United Kingdom,DB-13060,204.0
+United Kingdom,NS-18640,184.0
+United Kingdom,LB-16735,802.0
+United Kingdom,SF-20965,568.0
+United Kingdom,CM-12235,1352.0
+United Kingdom,TB-21355,774.0
+United Kingdom,MW-18220,4201.0
+United Kingdom,GW-14605,515.0
+United Kingdom,AH-10690,764.0
+United Kingdom,SW-20275,1148.0
+United Kingdom,HR-14830,73.0
+United Kingdom,JO-15145,84.0
+United Kingdom,FC-14245,152.0
+United Kingdom,BM-11650,140.0
+United Kingdom,CS-12460,913.0
+United Kingdom,SV-20815,65.0
+United Kingdom,MK-17905,261.0
+United Kingdom,PL-18925,170.0
+United Kingdom,RB-19435,46.0
+United Kingdom,CM-11830,1840.0
+United Kingdom,DJ-13510,671.0
+United Kingdom,SB-20185,176.0
+United Kingdom,AJ-10945,102.0
+United Kingdom,AG-10525,79.0
+United Kingdom,CR-12625,166.0
+United Kingdom,CB-12415,1514.0
+United Kingdom,MC-18130,1768.0
+United Kingdom,SM-20320,1937.0
+United Kingdom,TB-21400,649.0
+United Kingdom,AB-10165,1185.0
+United Kingdom,KH-16630,51.0
+United Kingdom,BN-11515,496.0
+United Kingdom,CH-12070,720.0
+United Kingdom,GT-14755,786.0
+United Kingdom,JO-15280,886.0
+United Kingdom,DM-13345,211.0
+United Kingdom,VD-21670,1933.0
+United Kingdom,CK-12760,552.0
+United Kingdom,SN-20710,2200.0
+United Kingdom,JE-15745,389.0
+United Kingdom,CD-11980,351.0
+United Kingdom,CV-12805,1112.0
+United Kingdom,AB-10015,503.0
+United Kingdom,AS-10090,2309.0
+United Kingdom,KN-16450,26.0
+United Kingdom,CC-12610,320.0
+United Kingdom,RD-19480,256.0
+United Kingdom,CT-11995,1670.0
+United Kingdom,AH-10210,804.0
+United Kingdom,MK-18160,273.0
+United Kingdom,GH-14425,79.0
+United Kingdom,SV-20365,673.0
+United Kingdom,HE-14800,1680.0
+United Kingdom,ST-20530,235.0
+United Kingdom,JF-15295,2689.0
+United Kingdom,JD-16015,105.0
+United Kingdom,ZC-21910,372.0
+United Kingdom,PM-18940,1062.0
+United Kingdom,MJ-17740,461.0
+United Kingdom,SW-20755,769.0
+United Kingdom,TC-20980,214.0
+United Kingdom,BD-11725,701.0
+United Kingdom,LS-16975,106.0
+United Kingdom,MG-18205,747.0
+United Kingdom,FM-14380,119.0
+United Kingdom,CS-12250,973.0
+United Kingdom,DH-13675,1314.0
+United Kingdom,SS-20590,2488.0
+United Kingdom,DW-13480,542.0
+United Kingdom,ME-17320,879.0
+United Kingdom,AI-10855,995.0
+United Kingdom,JF-15415,2519.0
+United Kingdom,MH-17785,1016.0
+United Kingdom,RD-19810,434.0
+United Kingdom,RD-19720,1037.0
+United Kingdom,EM-13825,283.0
+United Kingdom,BE-11335,1893.0
+United Kingdom,DA-13450,349.0
+United Kingdom,LT-16765,730.0
+United Kingdom,KM-16225,189.0
+United Kingdom,ND-18460,2564.0
+United Kingdom,AY-10555,1892.0
+United Kingdom,MZ-17335,508.0
+United Kingdom,MS-17365,678.0
+United Kingdom,SB-20290,933.0
+United Kingdom,TG-21310,95.0
+United Kingdom,SA-20830,3081.0
+United Kingdom,KC-16540,98.0
+United Kingdom,MC-17590,284.0
+United Kingdom,BG-11035,149.0
+United Kingdom,PS-18760,18.0
+United Kingdom,AH-10585,164.0
+United Kingdom,PG-18895,666.0
+United Kingdom,CR-12730,415.0
+United Kingdom,SJ-20215,1557.0
+United Kingdom,KS-16300,531.0
+United Kingdom,SH-19975,11.0
+Spain,ER-13855,6974.0
+Spain,TS-21205,602.0
+Spain,RW-19630,377.0
+Spain,SE-20110,556.0
+Spain,JL-15505,194.0
+Spain,NM-18520,2526.0
+Spain,TT-21220,1872.0
+Spain,JK-15625,146.0
+Spain,HG-14965,841.0
+Spain,JW-15220,37.0
+Spain,BT-11305,526.0
+Spain,LS-17245,180.0
+Spain,KB-16600,114.0
+Spain,MG-17680,1133.0
+Belgium,SW-20245,158.0
+Belgium,NK-18490,77.0
+Belgium,LD-17005,382.0
+Belgium,SM-20320,161.0
+Belgium,KB-16240,53.0
+Belgium,CK-12595,324.0
+Belgium,FO-14305,548.0
+Belgium,ML-18265,1713.0
+Belgium,MH-17440,464.0
+Belgium,BC-11125,1158.0
+Sweden,NF-18385,836.0
+Germany,DB-13555,642.0
+Germany,KA-16525,3952.0
+Germany,JK-15370,301.0
+Germany,DP-13390,142.0
+Germany,BK-11260,1940.0
+Germany,AW-10930,84.0
+Germany,AJ-10795,89.0
+Germany,AR-10825,2259.0
+Germany,JM-15655,2825.0
+Germany,ED-13885,247.0
+Germany,CM-11830,915.0
+Germany,JS-15940,216.0
+Germany,GZ-14545,400.0
+Germany,RS-19420,3119.0
+Germany,CB-12025,963.0
+Germany,TZ-21580,3305.0
+Germany,AJ-10945,2827.0
+Germany,CS-12175,134.0
+Germany,JB-16045,129.0
+Germany,JE-16165,1265.0
+Germany,KD-16615,488.0
+Germany,AW-10840,2253.0
+Germany,CW-11905,98.0
+Germany,LH-16750,435.0
+Germany,LH-17020,100.0
+Germany,BD-11605,373.0
+Germany,MC-17575,1804.0
+Germany,NB-18655,1287.0
+Germany,DK-13225,26.0
+Germany,MJ-17740,835.0
+Germany,AT-10735,674.0
+Germany,JM-15865,103.0
+Norway,ZD-21925,270.0
+Italy,EH-13945,1470.0
+Italy,KB-16315,589.0
+Italy,CA-11965,1064.0
+Italy,SC-20230,451.0
+Italy,BP-11155,230.0
+Italy,JB-16045,1814.0
+Italy,FA-14230,1359.0
+Italy,EM-14095,173.0
+Italy,SP-20920,5124.0
+Italy,EM-13960,22.0
+Italy,RP-19390,108.0
+Italy,MF-17665,112.0
+Italy,NS-18505,426.0
+Italy,RA-19915,2513.0
+Belgium,TT-21460,2149.0
+Belgium,MG-17875,1796.0
+Belgium,JJ-15445,1021.0
+Belgium,BS-11380,44.0
+Netherlands,MH-17620,117.0
+Belgium,CM-12160,29.0
+Belgium,MO-17950,1136.0
+Belgium,KS-16300,679.0
+Belgium,AH-10210,308.0
+Netherlands,LC-16960,350.0
+Netherlands,PG-18895,672.0
+Netherlands,MO-17500,781.0
+Netherlands,MC-17425,100.0
+Netherlands,TP-21130,916.0
+Netherlands,LP-17080,252.0
+Netherlands,AT-10435,110.0
+Netherlands,DV-13045,83.0
+Netherlands,RH-19510,520.0
+Netherlands,SJ-20125,291.0
+Netherlands,LD-17005,815.0
+Netherlands,NP-18325,46.0
+Netherlands,CL-12700,178.0
+Netherlands,JK-16090,79.0
+Netherlands,HG-14845,2590.0
+Switzerland,TH-21100,539.0
+Switzerland,TH-21235,4091.0
+Spain,CC-12220,145.0
+Spain,RH-19495,2027.0
+Spain,RB-19330,2851.0
+Italy,LH-17020,32.0
+Italy,TS-21085,167.0
+Italy,CB-12025,255.0
+Italy,PJ-18835,8429.0
+Italy,JM-15535,825.0
+Italy,MC-17590,65.0
+Italy,NP-18325,58.0
+Italy,FM-14215,1553.0
+Italy,PS-18970,1980.0
+Italy,SW-20455,339.0
+Italy,DW-13585,428.0
+Italy,JE-16165,177.0
+Italy,NF-18385,1028.0
+Italy,PP-18955,83.0
+Italy,SC-20845,49.0
+Italy,CC-12670,850.0
+Italy,HM-14860,712.0
+Italy,JW-15220,1025.0
+Italy,SC-20380,288.0
+Italy,DM-13525,29.0
+Italy,AH-10690,43.0
+Italy,ON-18715,329.0
+Italy,BT-11395,2590.0
+Italy,HK-14890,370.0
+Sweden,JK-16090,488.0
+Sweden,NS-18640,762.0
+Sweden,ML-17755,91.0
+Netherlands,SC-20680,176.0
+Netherlands,DL-12865,1067.0
+Netherlands,BF-11005,7.0
+Netherlands,AH-10585,9.0
+Netherlands,SM-20005,628.0
+Netherlands,BD-11635,1137.0
+Netherlands,KE-16420,1345.0
+Netherlands,MH-17785,170.0
+Netherlands,MG-17695,2211.0
+Netherlands,KB-16240,53.0
+Netherlands,DP-13165,399.0
+Netherlands,PO-19180,124.0
+Netherlands,TB-21400,393.0
+Netherlands,KH-16690,14.0
+Netherlands,JB-15400,141.0
+Netherlands,SH-20395,544.0
+Netherlands,KM-16375,894.0
+Netherlands,NP-18700,1823.0
+Netherlands,AH-10075,16.0
+Netherlands,VP-21730,56.0
+Finland,KC-16675,15.0
+Finland,SH-19975,316.0
+Finland,PO-19195,1396.0
+Finland,CK-12760,663.0
+Finland,JE-15745,318.0
+Finland,RD-19585,103.0
+Finland,CD-12790,415.0
+Finland,BG-11035,1245.0
+Finland,TH-21235,301.0
+Finland,LR-16915,4915.0
+Finland,SG-20470,195.0
+Finland,WB-21850,17.0
+Finland,SC-20020,91.0
+Finland,MC-17635,341.0
+Finland,SV-20935,1845.0
+Finland,YS-21880,658.0
+Finland,TM-21010,594.0
+Finland,TA-21385,30.0
+Finland,CM-11935,38.0
+Finland,AR-10570,266.0
+Finland,JJ-15445,204.0
+Finland,PK-19075,2032.0
+Finland,CD-12280,451.0
+Finland,HM-14980,993.0
+Finland,VW-21775,551.0
+Denmark,IL-15100,243.0
+Netherlands,JE-16165,208.0
+Switzerland,SJ-20215,53.0
+Switzerland,MB-17305,1055.0
+Switzerland,AM-10705,3933.0
+Switzerland,ES-14020,190.0
+Switzerland,RW-19690,318.0
+Switzerland,SP-20920,682.0
+Switzerland,RB-19465,254.0
+Switzerland,GA-14515,321.0
+Switzerland,JK-16090,226.0
+Switzerland,TS-21505,756.0
+Switzerland,CH-12070,1086.0
+Switzerland,JK-15730,1598.0
+Switzerland,TC-21145,62.0
+Switzerland,PO-18850,60.0
+Switzerland,PF-19225,846.0
+Switzerland,GT-14710,174.0
+Spain,SG-20080,936.0
+Spain,BW-11110,3637.0
+Spain,HL-15040,381.0
+Spain,SC-20095,727.0
+France,JE-15715,296.0
+France,AH-10195,71.0
+France,AH-10075,1353.0
+France,TP-21565,1904.0
+France,BM-11575,625.0
+France,DW-13480,1011.0
+France,DW-13585,397.0
+France,JH-16180,1598.0
+France,MC-18100,1655.0
+France,KW-16435,1793.0
+France,JF-15355,1914.0
+France,HM-14860,2084.0
+France,BG-11740,1664.0
+France,KM-16375,1568.0
+France,TS-21430,1728.0
+France,FO-14305,3264.0
+France,SG-20470,439.0
+France,DP-13000,2765.0
+France,DM-12955,2032.0
+France,AM-10705,133.0
+France,SC-20680,724.0
+France,JG-15115,176.0
+France,CW-11905,2376.0
+France,SP-20920,1569.0
+France,LW-17215,43.0
+France,CM-11935,552.0
+France,NC-18535,13.0
+France,KF-16285,275.0
+France,JF-15490,1115.0
+France,KM-16660,343.0
+France,RB-19360,3449.0
+France,CM-12160,856.0
+France,DB-13615,332.0
+France,BD-11320,1663.0
+France,RS-19870,2163.0
+France,CD-11920,6558.0
+France,LR-17035,108.0
+France,PF-19165,3190.0
+France,TS-21610,2299.0
+France,FM-14215,2473.0
+France,MY-18295,541.0
+France,BS-11365,3123.0
+France,RS-19765,667.0
+Belgium,LC-16930,108.0
+Belgium,QJ-19255,300.0
+Belgium,JK-16120,642.0
+Norway,ND-18460,636.0
+Norway,FH-14365,243.0
+Norway,JW-15220,32.0
+Italy,PC-19000,220.0
+Italy,DO-13435,2180.0
+Italy,AR-10345,1362.0
+Italy,KW-16435,425.0
+Italy,PB-19210,162.0
+Italy,AS-10090,56.0
+Italy,LS-16975,313.0
+Italy,AG-10330,113.0
+Italy,NG-18430,569.0
+Italy,RD-19900,23.0
+Italy,JK-15370,69.0
+Italy,SP-20545,40.0
+Italy,DP-13000,1117.0
+Italy,JC-16105,1908.0
+Italy,RD-19480,521.0
+Italy,LS-17200,237.0
+Italy,BD-11560,100.0
+Italy,MS-17710,675.0
+Italy,AO-10810,1502.0
+Italy,MB-17305,213.0
+Italy,SR-20425,391.0
+Italy,LB-16795,1399.0
+Italy,PF-19225,82.0
+Italy,TB-21175,706.0
+Italy,DV-13465,105.0
+Italy,MC-17845,22.0
+Italy,SC-20680,568.0
+Italy,AR-10570,1534.0
+Italy,LW-17215,244.0
+Italy,AW-10840,684.0
+Italy,JD-15895,1641.0
+Italy,EH-14125,120.0
+Italy,CS-12490,30.0
+Ireland,MG-18145,239.0
+Italy,TT-21460,1316.0
+Italy,JL-15130,498.0
+Italy,SV-20785,82.0
+Italy,MT-18070,1389.0
+Italy,NZ-18565,438.0
+Italy,QJ-19255,2936.0
+Italy,GB-14530,463.0
+Italy,CM-12160,859.0
+Italy,AJ-10960,1594.0
+Italy,DL-13315,310.0
+Italy,CL-12700,415.0
+Italy,RM-19675,94.0
+Italy,DK-12895,175.0
+Italy,TB-21355,18.0
+Italy,RW-19690,120.0
+Italy,TT-21070,47.0
+Italy,RS-19420,335.0
+Italy,DK-13090,378.0
+Italy,HR-14830,991.0
+Italy,DG-13300,782.0
+Italy,EB-14170,419.0
+Italy,CW-11905,62.0
+Italy,MS-17365,808.0
+Italy,LS-16945,45.0
+Italy,ZD-21925,1226.0
+Italy,VT-21700,93.0
+Italy,PR-18880,78.0
+Italy,NB-18655,410.0
+Italy,NR-18550,369.0
+Italy,MG-17680,53.0
+Italy,PT-19090,777.0
+Italy,AW-10930,257.0
+Italy,CK-12325,187.0
+Italy,DL-13495,158.0
+Italy,KH-16630,68.0
+Italy,VF-21715,288.0
+Italy,PO-18850,311.0
+Italy,CL-11890,28.0
+Italy,CS-12250,1091.0
+Italy,MH-17455,247.0
+Italy,AB-10600,48.0
+Italy,SE-20110,2222.0
+France,EK-13795,228.0
+France,MF-17665,2709.0
+France,QJ-19255,78.0
+France,RD-19480,1548.0
+France,AB-10255,309.0
+France,HH-15010,636.0
+France,RW-19540,1857.0
+France,RP-19390,43.0
+France,RB-19645,571.0
+France,BW-11110,1433.0
+France,ES-14020,1687.0
+France,CC-12100,1927.0
+France,JO-15550,90.0
+France,ZD-21925,1749.0
+France,PS-18970,1275.0
+France,NP-18685,315.0
+France,AF-10885,2624.0
+France,GM-14440,61.0
+France,BW-11200,1158.0
+France,TC-20980,4069.0
+France,CJ-11875,344.0
+France,BE-11335,1666.0
+France,DH-13675,1204.0
+France,MK-17905,738.0
+France,JO-15145,1488.0
+France,CS-11860,265.0
+France,CM-11830,4490.0
+France,AR-10540,64.0
+France,SV-20935,499.0
+France,SH-20395,2702.0
+France,IM-15055,1261.0
+France,MV-18190,917.0
+France,RF-19735,354.0
+France,EB-13705,2283.0
+France,LW-17125,561.0
+France,EA-14035,202.0
+France,SV-20785,2832.0
+France,HG-14845,7812.0
+France,DK-12835,623.0
+France,LA-16780,3611.0
+France,JC-15385,652.0
+France,RH-19555,1066.0
+France,AP-10720,47.0
+France,CB-12025,257.0
+France,RA-19945,1625.0
+France,PO-18850,2849.0
+France,PB-19210,1284.0
+France,VM-21835,133.0
+Italy,FC-14245,53.0
+Italy,RB-19570,548.0
+Italy,JK-15640,54.0
+Italy,DM-13345,1843.0
+Italy,DD-13570,2000.0
+Italy,JH-15820,2447.0
+Italy,MG-17695,3303.0
+Italy,JR-15670,207.0
+Italy,LH-17155,24.0
+Italy,RD-19660,2871.0
+Italy,SH-20635,63.0
+Italy,AR-10405,307.0
+Italy,DL-12865,211.0
+Italy,AG-10900,592.0
+Italy,LE-16810,734.0
+Italy,LB-16735,49.0
+Italy,RH-19555,819.0
+Norway,CC-12145,369.0
+Norway,JE-16165,54.0
+Norway,PM-19135,669.0
+Norway,AR-10510,1112.0
+Norway,TM-21010,13.0
+Norway,KB-16600,335.0
+Norway,EB-13870,41.0
+Norway,EJ-13720,182.0
+Norway,CC-12100,102.0
+Norway,AS-10630,28.0
+Germany,AB-10015,732.0
+Germany,AH-10690,1201.0
+Germany,EH-13765,132.0
+Austria,MD-17350,119.0
+Austria,DK-13225,29.0
+Austria,PW-19030,437.0
+Austria,PT-19090,145.0
+Italy,NF-18595,147.0
+Italy,CR-12625,77.0
+Italy,CC-12550,223.0
+Italy,EJ-13720,43.0
+United Kingdom,AC-10615,34.0
+United Kingdom,BW-11065,32.0
+United Kingdom,LL-16840,628.0
+United Kingdom,CS-12490,184.0
+United Kingdom,SP-20920,194.0
+United Kingdom,MC-17635,305.0
+United Kingdom,RR-19525,412.0
+United Kingdom,CB-12535,2542.0
+United Kingdom,CC-12475,867.0
+United Kingdom,BS-11755,101.0
+United Kingdom,ES-14020,107.0
+United Kingdom,HW-14935,1593.0
+United Kingdom,DJ-13630,151.0
+United Kingdom,ML-17755,68.0
+United Kingdom,MG-17650,327.0
+United Kingdom,SP-20650,242.0
+United Kingdom,RS-19765,836.0
+United Kingdom,Dp-13240,81.0
+Spain,IG-15085,935.0
+Spain,RD-19930,384.0
+Spain,JD-16060,1393.0
+Austria,DL-13315,7382.0
+Austria,DK-12985,19.0
+Austria,SC-20725,83.0
+Austria,PS-19045,2897.0
+Spain,KS-16300,223.0
+Spain,DR-12880,10.0
+Spain,SV-20365,59.0
+Spain,MC-17590,1053.0
+Spain,SJ-20125,328.0
+Spain,SP-20920,513.0
+Spain,HG-14845,38.0
+Spain,EJ-14155,1187.0
+Spain,AM-10705,516.0
+Spain,CA-12055,139.0
+Spain,SV-20935,86.0
+Spain,JF-15565,672.0
+Spain,AJ-10960,117.0
+Spain,DB-13270,103.0
+Spain,KT-16465,185.0
+Spain,GT-14710,2602.0
+Spain,BO-11425,1910.0
+Spain,HA-14905,1344.0
+Spain,KL-16645,1168.0
+Spain,SP-20620,1715.0
+Spain,AG-10675,24.0
+Spain,SC-20440,247.0
+Spain,ME-17320,179.0
+Spain,PC-19000,2029.0
+Spain,SB-20185,173.0
+Spain,MZ-17515,310.0
+Spain,TC-21535,264.0
+Spain,VP-21730,475.0
+Spain,CL-11890,342.0
+Spain,SN-20560,530.0
+Spain,CD-11920,565.0
+Spain,MZ-17335,57.0
+Spain,TS-21160,120.0
+Spain,VF-21715,2070.0
+Spain,AC-10660,44.0
+Spain,AJ-10795,2019.0
+Spain,CM-11935,376.0
+Spain,RF-19345,1419.0
+Spain,AB-10150,2740.0
+Spain,HR-14770,654.0
+Spain,MV-17485,1998.0
+Spain,AH-10210,2068.0
+Spain,MK-17905,728.0
+Spain,BP-11230,4652.0
+Spain,RD-19810,100.0
+Spain,PO-19195,995.0
+Spain,CM-11830,3397.0
+Spain,RA-19915,581.0
+Spain,VT-21700,166.0
+Spain,BT-11485,1042.0
+Spain,AC-10420,177.0
+Spain,LL-16840,62.0
+Spain,TS-21430,29.0
+Spain,HM-14860,527.0
+Spain,TA-21385,248.0
+Netherlands,SR-20740,139.0
+Netherlands,LS-17230,262.0
+Netherlands,NL-18310,42.0
+Netherlands,KC-16675,48.0
+Netherlands,BT-11440,743.0
+Netherlands,CP-12340,124.0
+Netherlands,SS-20515,1329.0
+Netherlands,JS-16030,269.0
+Netherlands,PJ-19015,323.0
+Netherlands,JC-15340,2884.0
+Netherlands,SW-20755,997.0
+Norway,VG-21790,28.0
+Norway,MY-17380,1950.0
+Norway,CS-11950,914.0
+Norway,KH-16690,1327.0
+Norway,AA-10480,2633.0
+Sweden,IL-15100,72.0
+Sweden,AM-10360,73.0
+Sweden,HJ-14875,23.0
+Sweden,SP-20860,173.0
+Sweden,JJ-15760,321.0
+Sweden,JW-15955,902.0
+Sweden,JM-15865,132.0
+Sweden,SC-20230,314.0
+Sweden,MV-18190,3.0
+Sweden,JE-15475,40.0
+Sweden,CS-11950,1458.0
+Sweden,BM-11650,92.0
+Sweden,DM-13345,352.0
+Sweden,DM-12955,55.0
+Sweden,CJ-12010,29.0
+Sweden,SH-20635,128.0
+Sweden,GR-14560,202.0
+Sweden,PO-18850,259.0
+Sweden,LO-17170,272.0
+Sweden,SM-20320,65.0
+Sweden,DK-13150,68.0
+Sweden,TG-21640,124.0
+Sweden,EM-14140,45.0
+Sweden,MB-17305,53.0
+Sweden,MY-18295,124.0
+Sweden,AC-10615,30.0
+Sweden,CC-12550,43.0
+Sweden,MW-18235,357.0
+Sweden,JC-16105,116.0
+Sweden,CL-12565,1331.0
+Sweden,PB-19210,349.0
+Sweden,EB-13705,46.0
+Sweden,CK-12595,308.0
+Sweden,EH-13765,621.0
+Sweden,SW-20755,60.0
+Sweden,AS-10045,77.0
+Sweden,JF-15490,1582.0
+Sweden,BT-11305,22.0
+Sweden,CM-12655,3228.0
+Sweden,PO-19195,133.0
+Sweden,GM-14680,386.0
+Sweden,AZ-10750,137.0
+Sweden,RS-19765,19.0
+Sweden,RD-19720,31.0
+Sweden,RS-19420,591.0
+Sweden,ML-18040,693.0
+Sweden,PF-19120,26.0
+Sweden,DB-13660,27.0
+Sweden,GH-14665,63.0
+Sweden,SC-20575,75.0
+Sweden,MK-18160,599.0
+Sweden,DK-12895,13.0
+Sweden,CP-12085,305.0
+Sweden,NL-18310,1364.0
+Sweden,FM-14290,89.0
+Sweden,TB-21625,133.0
+Sweden,VD-21670,24.0
+Sweden,MA-17560,1424.0
+Sweden,MG-17890,128.0
+Sweden,PM-18940,8.0
+Sweden,MG-18205,39.0
+Sweden,RP-19855,151.0
+Sweden,MC-17590,46.0
+Sweden,PS-18760,763.0
+Sweden,BH-11710,92.0
+Sweden,HD-14785,117.0
+Sweden,PS-18970,117.0
+Sweden,HR-14770,19.0
+Sweden,RP-19270,239.0
+Sweden,ZC-21910,198.0
+Sweden,SC-20380,468.0
+Sweden,BS-11665,68.0
+Germany,LC-16870,682.0
+Germany,JK-15325,21.0
+Germany,JO-15145,2138.0
+Germany,DB-13060,4994.0
+Germany,KD-16345,887.0
+Germany,SA-20830,746.0
+Germany,JB-15400,381.0
+Germany,SW-20755,495.0
+Germany,HJ-14875,116.0
+Germany,SF-20965,320.0
+Germany,TT-21460,1206.0
+Germany,MH-18025,1046.0
+Germany,BS-11665,823.0
+Germany,CB-12415,2544.0
+Germany,TB-21280,167.0
+Sweden,BP-11095,422.0
+Spain,GP-14740,246.0
+Spain,ML-18265,123.0
+Spain,RP-19270,189.0
+Spain,LA-16780,278.0
+Spain,JB-16000,669.0
+Spain,BD-11605,506.0
+Spain,CY-12745,1411.0
+Spain,HD-14785,617.0
+Spain,CS-12175,300.0
+Spain,AT-10435,4627.0
+Spain,AO-10810,735.0
+Spain,MC-17635,400.0
+Spain,EB-13705,625.0
+Spain,NP-18685,70.0
+Spain,DK-13090,2934.0
+Spain,AR-10510,285.0
+Spain,CC-12475,386.0
+Spain,AF-10870,162.0
+Spain,PR-18880,34.0
+Spain,TP-21565,855.0
+Spain,DM-13015,129.0
+Spain,MS-17830,245.0
+Spain,MP-18175,319.0
+Spain,TS-21085,43.0
+Spain,JH-15820,1520.0
+Spain,LC-16930,34.0
+Spain,RH-19510,100.0
+Spain,AB-10105,130.0
+Spain,NP-18700,1295.0
+Spain,BD-11620,1194.0
+Spain,BE-11455,1323.0
+Spain,SC-20230,2719.0
+Spain,LT-16765,637.0
+Spain,PW-19030,962.0
+Spain,MS-17770,297.0
+Spain,CR-12730,158.0
+Spain,TB-21250,340.0
+Italy,DL-13330,86.0
+Netherlands,DL-13315,1648.0
+Netherlands,PV-18985,190.0
+Netherlands,SW-20350,75.0
+Netherlands,NC-18625,53.0
+Netherlands,FA-14230,835.0
+Netherlands,PB-19105,600.0
+Netherlands,BT-11305,21.0
+Netherlands,MZ-17515,17.0
+Netherlands,JC-16105,47.0
+Netherlands,JL-15505,156.0
+Netherlands,MB-18085,208.0
+Netherlands,SG-20470,745.0
+Netherlands,JW-15220,304.0
+Netherlands,JL-15175,108.0
+Netherlands,NG-18355,413.0
+Netherlands,SC-20770,451.0
+Netherlands,SS-20875,6.0
+Netherlands,LA-16780,106.0
+Netherlands,BH-11710,510.0
+Netherlands,BF-11275,516.0
+Netherlands,AS-10135,904.0
+Netherlands,RF-19840,18.0
+Netherlands,KH-16360,112.0
+Netherlands,CC-12685,62.0
+Netherlands,GZ-14470,1148.0
+Switzerland,MF-18250,50.0
+Switzerland,SC-20800,12.0
+Spain,JS-16030,483.0
+Spain,GH-14410,2818.0
+Spain,MC-18100,835.0
+Spain,LR-17035,799.0
+Spain,FA-14230,94.0
+Spain,TG-21640,212.0
+Spain,AI-10855,132.0
+Spain,ON-18715,34.0
+Spain,HA-14920,774.0
+Spain,RF-19840,25.0
+Spain,IM-15055,54.0
+Spain,RW-19540,777.0
+Spain,LP-17080,501.0
+Spain,NP-18670,103.0
+Spain,SC-20305,1437.0
+Spain,JH-16180,1349.0
+Spain,TS-21370,464.0
+Spain,CM-12235,356.0
+Spain,KN-16390,212.0
+Spain,TT-21460,10.0
+Spain,BP-11185,557.0
+Spain,AS-10285,434.0
+Spain,CR-12625,261.0
+Spain,CS-12460,1369.0
+Spain,RM-19675,305.0
+Spain,JE-15745,1298.0
+Spain,GM-14455,796.0
+Spain,SS-20875,84.0
+Spain,JK-16090,301.0
+Spain,GH-14485,2409.0
+Spain,CS-12250,174.0
+Spain,DF-13135,1001.0
+Spain,MF-18250,1121.0
+Spain,LO-17170,44.0
+Spain,BP-11290,152.0
+Spain,RB-19645,612.0
+Spain,KW-16435,568.0
+Norway,RW-19540,1786.0
+Switzerland,TP-21565,45.0
+Switzerland,CC-12670,47.0
+Switzerland,HK-14890,440.0
+Switzerland,AS-10045,26.0
+Switzerland,JD-16015,36.0
+Switzerland,JP-15460,799.0
+Switzerland,HM-14860,2387.0
+Germany,KF-16285,28.0
+Germany,MN-17935,1649.0
+Germany,SW-20275,360.0
+Germany,RS-19870,451.0
+Germany,BS-11380,517.0
+Germany,AH-10585,87.0
+Germany,KW-16570,826.0
+Germany,TH-21100,879.0
+Germany,CL-11890,1456.0
+Germany,HM-14860,36.0
+Germany,PW-19240,635.0
+Spain,RB-19705,229.0
+Denmark,BF-11080,1261.0
+Denmark,AJ-10780,206.0
+Denmark,DB-13060,81.0
+Denmark,TS-21205,206.0
+Denmark,SP-20545,208.0
+Denmark,TN-21040,110.0
+Denmark,XP-21865,682.0
+Denmark,FP-14320,525.0
+Denmark,CM-11830,527.0
+Denmark,NP-18700,155.0
+Denmark,SD-20485,17.0
+Denmark,LH-16900,47.0
+Denmark,HF-14995,693.0
+Denmark,AF-10870,108.0
+Denmark,JS-16030,90.0
+Denmark,CS-11950,257.0
+Denmark,PB-19150,21.0
+Denmark,LD-17005,29.0
+Finland,GM-14500,60.0
+Finland,AR-10345,174.0
+Germany,KC-16675,4839.0
+Germany,NC-18415,1000.0
+Germany,MM-17920,2617.0
+Germany,DK-12985,1898.0
+Germany,EK-13795,2006.0
+Germany,RK-19300,166.0
+Germany,JF-15190,222.0
+Germany,JH-15910,450.0
+Germany,MG-17890,403.0
+Germany,PF-19120,536.0
+Germany,KM-16720,1108.0
+Germany,JL-15835,28.0
+Germany,MW-18235,499.0
+Germany,DM-13525,3019.0
+Germany,EM-13960,67.0
+Germany,JM-16195,142.0
+Germany,BW-11200,25.0
+Germany,LT-16765,98.0
+Germany,ME-17725,206.0
+Germany,SW-20350,176.0
+Germany,PL-18925,241.0
+Germany,MS-17980,4591.0
+Germany,BT-11485,64.0
+Germany,JH-16180,931.0
+Germany,HM-14980,1959.0
+Germany,AB-10105,1034.0
+Germany,PM-19135,80.0
+Germany,NG-18430,185.0
+Germany,HR-14830,269.0
+Germany,SC-20230,1060.0
+Germany,GT-14710,1403.0
+Germany,BF-11275,632.0
+Germany,SM-20950,282.0
+Germany,JL-15175,54.0
+Germany,SG-20605,154.0
+Germany,JL-15850,1151.0
+Germany,NF-18385,226.0
+Germany,CB-12535,2559.0
+Germany,PS-18970,1026.0
+Germany,MG-18145,2737.0
+Germany,CC-12370,2135.0
+Belgium,JM-15265,388.0
+Belgium,HM-14860,183.0
+Belgium,TG-21640,2489.0
+Belgium,BG-11035,27.0
+Belgium,EC-14050,88.0
+Belgium,AH-10585,1109.0
+Belgium,NC-18415,1335.0
+Belgium,AS-10240,18.0
+Belgium,SO-20335,213.0
+Belgium,PM-19135,50.0
+Belgium,SC-20575,42.0
+Belgium,MC-17590,340.0
+Belgium,AH-10030,1591.0
+Belgium,SC-20725,57.0
+Belgium,AF-10870,4195.0
+Belgium,SF-20065,276.0
+France,MV-17485,1565.0
+France,BM-11140,308.0
+France,LH-17020,900.0
+France,VM-21685,1345.0
+France,PW-19240,197.0
+France,LP-17095,587.0
+France,LC-16930,1299.0
+France,PO-18865,5631.0
+France,MH-17620,1164.0
+France,CK-12760,1042.0
+France,LW-16990,2801.0
+France,FA-14230,1479.0
+France,SC-20800,1615.0
+France,AS-10240,2483.0
+France,JH-15910,497.0
+France,CT-11995,741.0
+France,RD-19720,1286.0
+France,LS-16945,1300.0
+France,CA-12055,1450.0
+France,FH-14275,719.0
+France,MK-18160,831.0
+France,SB-20185,612.0
+France,BP-11095,941.0
+France,RF-19345,1375.0
+France,KB-16315,3195.0
+France,GH-14410,2435.0
+France,KL-16555,36.0
+France,HF-14995,681.0
+France,JR-16210,167.0
+France,MC-17845,1463.0
+France,AM-10360,3673.0
+France,SR-20740,888.0
+France,JW-16075,4289.0
+France,MS-17830,1659.0
+France,CH-12070,3911.0
+France,ON-18715,6896.0
+France,PR-18880,370.0
+France,PN-18775,828.0
+France,CC-12475,1452.0
+France,JK-16120,52.0
+France,AA-10315,368.0
+France,RS-19420,367.0
+France,HM-14980,1082.0
+France,PG-18895,2263.0
+France,AJ-10960,1320.0
+France,JC-15340,3216.0
+France,TM-21490,3674.0
+France,DB-13360,1298.0
+France,SC-20725,2413.0
+France,MH-17290,896.0
+France,JD-16060,528.0
+France,CC-12220,144.0
+France,AW-10930,374.0
+France,MW-18235,1010.0
+France,BP-11185,2222.0
+France,TP-21415,407.0
+France,ZC-21910,1917.0
+France,GZ-14470,1708.0
+France,AH-10210,2595.0
+France,KB-16405,1992.0
+France,AG-10300,2272.0
+France,RC-19825,1334.0
+France,NK-18490,599.0
+France,LR-16915,698.0
+France,TA-21385,1404.0
+France,EJ-13720,80.0
+France,JS-15880,526.0
+France,TW-21025,2702.0
+France,TS-21340,2360.0
+France,CR-12730,1052.0
+France,DJ-13630,932.0
+France,TS-21370,1274.0
+France,CM-12445,2623.0
+France,JP-16135,696.0
+France,JR-15670,69.0
+France,NR-18550,365.0
+France,AJ-10780,1418.0
+France,SW-20275,428.0
+France,VB-21745,1212.0
+France,KH-16690,1585.0
+France,Co-12640,695.0
+France,AS-10090,1042.0
+France,SM-20905,762.0
+France,BO-11425,2691.0
+France,MM-18055,325.0
+France,TT-21070,1319.0
+France,DR-12880,358.0
+France,TH-21235,1517.0
+France,BD-11620,246.0
+France,AB-10165,2818.0
+France,AC-10615,646.0
+France,ME-18010,3749.0
+France,MC-17635,1520.0
+France,AG-10525,1354.0
+France,TC-21535,598.0
+France,DE-13255,936.0
+France,JL-15835,2891.0
+France,FG-14260,2099.0
+France,GA-14515,378.0
+France,NZ-18565,3517.0
+France,JM-15580,1899.0
+France,NP-18670,662.0
+France,ML-18040,3401.0
+France,IL-15100,756.0
+France,NG-18430,554.0
+France,SF-20200,425.0
+France,JK-15325,2099.0
+France,BT-11395,767.0
+France,ME-17320,494.0
+France,AD-10180,214.0
+France,FC-14335,250.0
+France,CK-12595,2123.0
+France,BV-11245,1355.0
+France,VW-21775,1038.0
+France,MN-17935,210.0
+France,TR-21325,596.0
+France,KA-16525,1796.0
+France,JK-15370,894.0
+France,JL-15175,2376.0
+France,SC-20575,1795.0
+France,HK-14890,1313.0
+France,CB-12415,827.0
+France,AG-10900,2161.0
+France,CA-12775,2173.0
+France,VT-21700,756.0
+France,ND-18370,1130.0
+France,GR-14560,1211.0
+France,NB-18580,1339.0
+France,AR-10825,3561.0
+France,DB-13060,2408.0
+France,AJ-10945,121.0
+France,LM-17065,644.0
+France,TG-21310,2725.0
+France,PP-18955,4577.0
+France,PK-19075,1051.0
+France,MC-17605,561.0
+France,GH-14425,2798.0
+France,IM-15070,1325.0
+France,FH-14350,896.0
+France,CL-12565,711.0
+France,EM-13825,3448.0
+France,TT-21220,447.0
+France,CC-12145,276.0
+France,BF-11275,1215.0
+France,SW-20245,1072.0
+France,JF-15565,2203.0
+France,NF-18385,3152.0
+France,HG-14965,792.0
+France,MH-17440,41.0
+France,JC-15775,342.0
+France,PB-19150,747.0
+France,PL-18925,1488.0
+France,AR-10510,1860.0
+France,FW-14395,1381.0
+France,RP-19270,2699.0
+France,SC-20095,3080.0
+France,PS-19045,3698.0
+France,EH-13765,525.0
+France,CR-12820,625.0
+France,BS-11665,1798.0
+France,RH-19600,595.0
+France,JS-15685,822.0
+France,SM-20320,220.0
+France,CD-12280,1634.0
+France,SC-20695,369.0
+France,JF-15415,2579.0
+France,EH-14125,5836.0
+France,ES-14080,734.0
+France,EG-13900,2966.0
+France,BS-11590,3321.0
+France,TB-21175,3665.0
+France,CC-12370,246.0
+France,BF-11005,2684.0
+France,TB-21625,1233.0
+France,KD-16345,1850.0
+France,MH-18115,363.0
+France,SC-20020,743.0
+France,LS-17245,617.0
+France,MO-17800,231.0
+France,SL-20155,364.0
+France,MZ-17335,3266.0
+France,HP-14815,969.0
+France,MP-17965,4262.0
+France,LT-17110,2237.0
+France,AG-10330,368.0
+France,GB-14575,83.0
+France,EH-13990,286.0
+France,JG-15310,2726.0
+France,JH-15430,652.0
+France,MH-17785,1544.0
+France,DL-13330,152.0
+France,DM-13015,114.0
+France,EB-13840,2966.0
+France,JE-15475,298.0
+France,TB-21055,3938.0
+France,MO-17950,147.0
+France,JJ-15760,5432.0
+France,CD-12790,5481.0
+France,CA-12310,2486.0
+France,AT-10735,3647.0
+France,PV-18985,1511.0
+France,SS-20590,1066.0
+France,GZ-14545,2643.0
+France,CS-12490,321.0
+France,HW-14935,2121.0
+France,MH-18025,2100.0
+France,EP-13915,937.0
+France,DK-12895,487.0
+France,JD-16015,64.0
+France,AB-10015,2823.0
+France,BT-11530,918.0
+France,SB-20170,1281.0
+France,MM-17260,679.0
+France,DP-13390,1223.0
+France,MC-18130,512.0
+France,MF-18250,6106.0
+France,JS-16030,67.0
+France,JK-15205,1616.0
+France,KS-16300,136.0
+France,SE-20110,4037.0
+France,YC-21895,4161.0
+France,VP-21730,37.0
+France,JP-15460,1617.0
+France,AG-10495,3870.0
+France,MH-17455,2527.0
+France,CB-12535,347.0
+France,SS-20410,6808.0
+France,KT-16465,40.0
+France,SM-20005,1192.0
+France,AG-10390,2583.0
+France,TB-21190,398.0
+France,PM-18940,3471.0
+France,HJ-14875,3700.0
+France,AC-10450,54.0
+France,EM-14095,2131.0
+France,EL-13735,48.0
+France,CK-12325,338.0
+France,JW-15220,4606.0
+France,GW-14605,3120.0
+France,MP-18175,3355.0
+France,JH-15985,700.0
+France,ED-13885,1547.0
+France,NG-18355,926.0
+France,SW-20755,3372.0
+France,TH-21100,4543.0
+France,AP-10915,1156.0
+France,KM-16225,14.0
+France,MR-17545,3489.0
+France,CJ-12010,880.0
+France,PM-19135,145.0
+France,CC-12430,57.0
+France,BS-11755,3243.0
+France,MO-17500,1474.0
+France,SN-20560,57.0
+France,SB-20290,914.0
+France,CM-12190,5079.0
+France,DC-13285,5120.0
+France,SH-19975,1031.0
+France,PT-19090,556.0
+France,PF-19225,269.0
+France,LC-17050,394.0
+France,TS-21085,1944.0
+France,EB-13870,155.0
+France,HA-14920,33.0
+France,PF-19120,1130.0
+France,CM-11815,2139.0
+France,DK-13150,404.0
+France,JM-15865,3032.0
+France,MG-18145,800.0
+France,JL-15130,7003.0
+France,DS-13030,1322.0
+France,KB-16240,115.0
+France,LS-17200,2979.0
+France,KD-16615,5316.0
+France,AH-10030,745.0
+France,AB-10150,867.0
+France,NH-18610,3318.0
+France,JM-16195,150.0
+France,RC-19960,105.0
+France,KD-16495,4228.0
+France,VS-21820,1082.0
+France,TC-21295,3554.0
+France,MT-18070,2711.0
+France,MC-17275,1661.0
+France,LC-16870,710.0
+France,SG-20605,450.0
+France,BD-11500,1423.0
+France,CP-12340,744.0
+France,ML-17755,4142.0
+France,DS-13180,654.0
+France,SK-19990,2321.0
+France,JR-15700,892.0
+France,LO-17170,89.0
+France,SW-20455,517.0
+France,CM-12715,708.0
+France,SJ-20500,4428.0
+France,CS-12460,352.0
+France,KW-16570,302.0
+France,BD-11770,1861.0
+France,RM-19675,788.0
+France,SN-20710,714.0
+France,DW-13540,1298.0
+France,LC-16885,1180.0
+France,LT-16765,1438.0
+France,GG-14650,3370.0
+France,BP-11155,1529.0
+France,JF-15295,249.0
+France,JW-15955,1855.0
+France,TT-21460,1779.0
+France,PB-18805,1152.0
+France,KN-16390,965.0
+France,FH-14365,83.0
+France,DH-13075,1397.0
+France,DK-12985,58.0
+France,MD-17350,175.0
+France,CL-11890,748.0
+France,CC-12550,1343.0
+France,SV-20815,1685.0
+France,BB-10990,395.0
+France,AA-10480,2031.0
+France,BM-11650,2160.0
+France,YS-21880,294.0
+France,CS-12250,1575.0
+France,AF-10870,324.0
+France,TS-21505,2497.0
+France,SJ-20125,2038.0
+France,GH-14665,668.0
+France,CA-12265,1396.0
+France,CS-12400,1070.0
+France,RA-19285,53.0
+France,ME-17725,11.0
+France,MG-18205,1577.0
+France,AB-10060,152.0
+France,BK-11260,1039.0
+France,RH-19495,2236.0
+France,DC-12850,477.0
+France,DV-13045,1406.0
+Netherlands,JD-15895,24.0
+Netherlands,PB-19210,522.0
+Netherlands,BK-11260,636.0
+Netherlands,LT-16765,55.0
+Netherlands,RP-19855,27.0
+Netherlands,SU-20665,280.0
+Netherlands,AB-10015,103.0
+Netherlands,AS-10090,524.0
+Netherlands,AH-10210,262.0
+Netherlands,IM-15070,2021.0
+Netherlands,TS-21205,13.0
+Netherlands,EG-13900,136.0
+Netherlands,DS-13030,275.0
+Netherlands,RS-19870,73.0
+Netherlands,SC-20050,431.0
+Netherlands,KL-16555,58.0
+Netherlands,JA-15970,154.0
+Netherlands,JD-16060,471.0
+Netherlands,LT-17110,1182.0
+Netherlands,CJ-12010,142.0
+Netherlands,PN-18775,225.0
+Netherlands,JK-15640,161.0
+Netherlands,LC-16885,311.0
+Netherlands,GM-14440,1284.0
+Netherlands,EB-13975,196.0
+Netherlands,VM-21685,3244.0
+Netherlands,PW-19240,19.0
+Netherlands,DB-13120,154.0
+Netherlands,MF-18250,47.0
+Netherlands,RB-19570,726.0
+Netherlands,SB-20170,516.0
+Netherlands,JL-15130,301.0
+Netherlands,FO-14305,28.0
+Netherlands,CM-11830,134.0
+Netherlands,EB-14110,250.0
+Netherlands,MM-17920,83.0
+Netherlands,LW-17125,169.0
+Netherlands,JH-15910,172.0
+Netherlands,JS-15940,824.0
+Netherlands,JB-15925,396.0
+Netherlands,AG-10675,371.0
+Netherlands,GM-14680,2316.0
+Netherlands,TS-21610,443.0
+Netherlands,CS-11950,309.0
+Netherlands,SN-20710,51.0
+Netherlands,DA-13450,788.0
+Netherlands,AW-10840,1545.0
+Netherlands,BF-11020,111.0
+Netherlands,TS-21655,10.0
+Netherlands,AB-10060,30.0
+Netherlands,MV-18190,42.0
+Netherlands,JK-15730,180.0
+Netherlands,TC-21295,1179.0
+Netherlands,AJ-10945,103.0
+Netherlands,AH-10120,11.0
+Netherlands,GH-14425,272.0
+Netherlands,FP-14320,484.0
+Netherlands,HE-14800,12.0
+Netherlands,BO-11425,905.0
+Netherlands,AB-10600,107.0
+Netherlands,DL-13495,354.0
+Netherlands,SS-20410,694.0
+Netherlands,NF-18475,41.0
+Netherlands,PO-18865,19.0
+Netherlands,OT-18730,974.0
+Netherlands,MP-17965,191.0
+Germany,RB-19330,1937.0
+Germany,BO-11350,134.0
+Germany,PA-19060,1193.0
+Germany,PK-18910,802.0
+Germany,KS-16300,482.0
+Germany,JD-16060,534.0
+Germany,BB-10990,1306.0
+Germany,AB-10255,410.0
+Germany,JS-15685,70.0
+Germany,CJ-11875,213.0
+Germany,PG-18820,240.0
+Germany,VT-21700,231.0
+Germany,KD-16270,846.0
+Germany,YC-21895,102.0
+Germany,LW-16990,181.0
+Denmark,AR-10405,697.0
+Denmark,NP-18685,25.0
+Denmark,RA-19915,726.0
+Denmark,VG-21805,87.0
+Denmark,JF-15565,738.0
+Denmark,PK-19075,372.0
+Denmark,RB-19435,26.0
+Denmark,BP-11155,107.0
+Denmark,JD-16060,89.0
+Denmark,DB-13405,189.0
+Denmark,DK-12835,87.0
+Netherlands,SG-20605,432.0
+Netherlands,TN-21040,19.0
+Netherlands,BP-11230,25.0
+Netherlands,KC-16255,176.0
+Netherlands,JH-15820,178.0
+Netherlands,ND-18460,28.0
+Netherlands,AF-10885,90.0
+Netherlands,EK-13795,139.0
+Netherlands,BS-11365,167.0
+Netherlands,MT-18070,135.0
+Netherlands,GT-14755,260.0
+Netherlands,EJ-14155,365.0
+Netherlands,AG-10390,63.0
+Netherlands,MV-17485,230.0
+Netherlands,DD-13570,8.0
+Netherlands,MG-17890,480.0
+Netherlands,DG-13300,41.0
+Netherlands,GB-14575,153.0
+Netherlands,DB-13270,490.0
+Netherlands,MH-17455,224.0
+Netherlands,VG-21805,1288.0
+Netherlands,DL-13330,759.0
+Netherlands,DK-13375,1381.0
+Netherlands,TP-21565,400.0
+Netherlands,AJ-10780,419.0
+Netherlands,GA-14515,949.0
+Netherlands,SP-20860,401.0
+Netherlands,MY-18295,48.0
+Netherlands,JC-15775,68.0
+Netherlands,CA-12055,214.0
+Netherlands,JD-16150,19.0
+Netherlands,BG-11695,662.0
+Netherlands,MM-17260,115.0
+Netherlands,CY-12745,114.0
+Netherlands,SJ-20215,153.0
+Netherlands,JH-15430,950.0
+Sweden,BE-11455,283.0
+Austria,SC-20680,45.0
+Austria,JR-16210,438.0
+Austria,RF-19345,145.0
+Austria,KB-16240,70.0
+Austria,CS-12490,7.0
+Austria,CC-12685,2347.0
+Austria,AS-10285,27.0
+Austria,MM-18055,1160.0
+Austria,EB-13750,141.0
+Austria,CD-12280,546.0
+Austria,JW-15220,212.0
+Belgium,FH-14275,187.0
+Belgium,ME-18010,553.0
+Belgium,HM-14980,104.0
+Spain,TD-20995,375.0
+Spain,BF-11020,51.0
+Spain,CG-12520,333.0
+Spain,MP-17965,313.0
+Spain,BF-11275,546.0
+Spain,DB-13120,45.0
+Spain,ML-17755,881.0
+Spain,PM-19135,60.0
+Spain,JS-15880,1103.0
+Spain,AS-10225,916.0
+Spain,RH-19555,25.0
+Spain,JG-15160,263.0
+Spain,DK-13225,376.0
+Spain,TC-21145,160.0
+Spain,BV-11245,4558.0
+Spain,CM-12715,84.0
+Italy,MY-17380,78.0
+Italy,JM-15250,423.0
+Italy,DB-12910,2463.0
+Italy,RR-19315,78.0
+Italy,DS-13180,117.0
+Italy,GT-14755,503.0
+Italy,PF-19120,80.0
+Italy,JJ-15445,166.0
+Italy,CM-12385,143.0
+Italy,RM-19750,52.0
+Italy,GH-14665,108.0
+Italy,MC-17635,49.0
+Italy,KN-16450,169.0
+Italy,DH-13075,304.0
+Italy,TS-21205,40.0
+Italy,TH-21550,21.0
+Italy,SJ-20500,292.0
+Italy,BP-11050,24.0
+Italy,AH-10585,246.0
+Italy,KC-16675,197.0
+Italy,FM-14380,776.0
+Italy,SW-20275,1145.0
+Italy,BB-10990,107.0
+Italy,BB-11545,287.0
+Italy,PW-19030,227.0
+Italy,CS-11860,198.0
+Italy,FO-14305,221.0
+Italy,MS-17980,290.0
+Italy,MR-17545,1251.0
+Italy,GZ-14470,2584.0
+Italy,GR-14560,167.0
+Italy,CJ-11875,20.0
+Finland,JD-15790,963.0
+Finland,PS-18970,22.0
+Finland,AG-10330,100.0
+Finland,AJ-10945,249.0
+Finland,FC-14245,547.0
+Finland,TB-21280,594.0
+Denmark,MB-18085,34.0
+Belgium,JL-15235,601.0
+Belgium,KH-16510,364.0
+Belgium,MH-17290,678.0
+France,LE-16810,603.0
+France,LD-17005,420.0
+France,TC-21145,30.0
+France,EB-13750,1035.0
+France,AB-10105,1006.0
+France,MY-17380,511.0
+France,MT-17815,2921.0
+France,LL-16840,2357.0
+France,JK-15640,610.0
+France,GP-14740,814.0
+France,AS-10630,307.0
+France,CM-12235,137.0
+France,PH-18790,408.0
+France,BP-11050,18.0
+France,GT-14755,328.0
+France,KE-16420,15.0
+France,CS-11845,574.0
+France,BF-11170,463.0
+France,FP-14320,78.0
+France,GM-14500,226.0
+France,BT-11485,2049.0
+France,KH-16630,389.0
+France,CV-12805,495.0
+France,SC-20380,482.0
+France,JK-15730,119.0
+France,AS-10135,336.0
+France,HZ-14950,1840.0
+France,RA-19915,668.0
+France,CL-12700,811.0
+France,BF-11020,1357.0
+France,SG-20080,476.0
+France,TS-21160,881.0
+France,RO-19780,149.0
+France,DB-12970,5200.0
+France,MG-17875,407.0
+France,BW-11065,54.0
+France,RR-19525,817.0
+France,ER-13855,5.0
+France,AZ-10750,621.0
+France,RB-19330,2592.0
+France,JJ-15445,1236.0
+France,NS-18640,630.0
+France,NW-18400,869.0
+France,SP-20620,182.0
+France,PW-19030,1233.0
+France,DW-13195,515.0
+France,GM-14695,66.0
+France,SP-20545,786.0
+France,AO-10810,894.0
+France,AR-10405,356.0
+France,AS-10045,4220.0
+France,EM-14200,179.0
+France,AR-10345,2391.0
+Spain,KC-16540,626.0
+Spain,SC-20050,243.0
+Spain,VW-21775,295.0
+Spain,EG-13900,41.0
+Spain,HF-14995,144.0
+Spain,FH-14365,3726.0
+France,CM-12655,1512.0
+France,CA-11965,543.0
+France,AA-10375,90.0
+France,AG-10765,494.0
+France,BN-11515,1721.0
+France,LC-16960,1534.0
+France,MS-17980,2088.0
+France,LC-17140,822.0
+France,RB-19705,101.0
+France,RA-19885,1309.0
+France,MZ-17515,1686.0
+France,PG-18820,539.0
+France,DB-13660,1115.0
+France,DB-13405,1950.0
+France,TN-21040,367.0
+France,MG-17680,1223.0
+France,MM-17920,2946.0
+France,LP-17080,114.0
+France,JK-16090,42.0
+France,CC-12610,744.0
+France,AS-10285,1622.0
+France,EN-13780,1957.0
+France,NC-18625,239.0
+France,DM-13525,383.0
+France,LF-17185,2576.0
+France,MS-17770,13.0
+France,NM-18445,609.0
+France,TS-21655,42.0
+Spain,SJ-20215,1647.0
+Spain,EH-14005,2138.0
+Spain,EM-13960,169.0
+Spain,RD-19480,861.0
+Spain,DJ-13420,246.0
+Spain,BM-11785,2863.0
+Spain,AS-10090,12.0
+Spain,IM-15070,792.0
+Spain,GT-14635,28.0
+Spain,JG-15805,580.0
+Spain,LC-17140,452.0
+Spain,RW-19690,324.0
+Spain,SC-20695,1107.0
+Spain,MH-17620,223.0
+Spain,EB-14110,529.0
+Spain,JM-16195,26.0
+Spain,ML-17395,6573.0
+Spain,CA-11965,39.0
+Spain,JD-16015,689.0
+Spain,KF-16285,285.0
+Spain,MW-18235,98.0
+Spain,PC-18745,710.0
+Spain,AR-10345,2287.0
+Spain,EA-14035,84.0
+Spain,CK-12760,36.0
+Spain,JS-15940,955.0
+Spain,LB-16735,204.0
+Sweden,CS-12490,583.0
+Sweden,JG-15115,741.0
+Sweden,TS-21655,30.0
+Sweden,ME-18010,257.0
+Sweden,AC-10660,389.0
+Sweden,SC-20800,31.0
+Sweden,KW-16435,222.0
+Sweden,TS-21370,40.0
+Sweden,GT-14635,211.0
+Sweden,TM-21010,261.0
+Sweden,LH-17155,153.0
+Sweden,JD-15895,122.0
+Sweden,EM-13960,197.0
+Germany,HA-14920,264.0
+Germany,RE-19450,2266.0
+Germany,DK-12895,1858.0
+Germany,FM-14290,628.0
+Germany,TS-21430,54.0
+Germany,CS-11950,96.0
+Germany,VG-21805,622.0
+Germany,RW-19630,259.0
+Germany,PG-18895,57.0
+Germany,GZ-14470,2700.0
+Germany,JC-15775,2597.0
+Germany,MA-17995,1583.0
+Germany,CH-12070,595.0
+Germany,PO-19180,535.0
+Germany,RH-19555,215.0
+Germany,JC-15340,408.0
+Germany,RD-19720,2697.0
+Germany,BT-11440,453.0
+Germany,BC-11125,1176.0
+Germany,AG-10495,2168.0
+Germany,HE-14800,194.0
+Germany,MS-17365,591.0
+Germany,MG-17695,181.0
+Germany,MB-17305,931.0
+Germany,SE-20110,1369.0
+Germany,CV-12805,2319.0
+Germany,CR-12820,113.0
+Germany,PB-18805,3189.0
+Germany,CR-12580,75.0
+Germany,EM-13810,128.0
+Germany,TS-21655,234.0
+Germany,LB-16735,177.0
+Germany,AG-10330,1820.0
+Germany,JJ-15760,166.0
+Germany,KE-16420,474.0
+Germany,LW-17215,117.0
+Germany,MC-17275,1118.0
+Germany,MC-18130,997.0
+Germany,HH-15010,1237.0
+Germany,AS-10630,1120.0
+Germany,TW-21025,16.0
+Germany,BW-11065,840.0
+Germany,CM-12385,138.0
+France,HL-15040,151.0
+France,TP-21130,441.0
+France,LD-16855,2781.0
+France,CD-11980,1474.0
+France,GA-14725,1657.0
+France,MS-17710,442.0
+France,BO-11350,559.0
+France,MB-17305,1756.0
+France,NM-18520,753.0
+France,RB-19570,25.0
+France,KC-16675,59.0
+Italy,JL-15850,111.0
+Germany,MH-17455,107.0
+Germany,LC-17050,3610.0
+Germany,SO-20335,249.0
+Germany,MC-17845,232.0
+Germany,TC-20980,690.0
+Germany,MR-17545,6760.0
+Germany,JB-15925,2999.0
+Germany,BP-11095,299.0
+Germany,CP-12085,286.0
+Germany,AM-10705,1427.0
+Germany,NC-18340,444.0
+Germany,MA-17560,1206.0
+Germany,BF-11080,757.0
+Germany,JB-16000,4366.0
+Germany,EB-13705,173.0
+Germany,SB-20185,1275.0
+Germany,EJ-13720,232.0
+France,RP-19855,586.0
+France,TG-21640,325.0
+France,JE-15610,569.0
+France,OT-18730,89.0
+France,AW-10840,357.0
+France,JB-15925,147.0
+France,BH-11710,524.0
+France,BS-11800,1082.0
+France,RM-19375,2726.0
+France,AY-10555,353.0
+France,EB-13930,2019.0
+France,DK-13090,1619.0
+France,SM-20950,517.0
+France,LS-17230,116.0
+France,DL-13495,1269.0
+France,RB-19465,675.0
+France,KB-16600,28.0
+France,BD-11635,641.0
+France,NS-18505,2137.0
+France,CC-12670,487.0
+France,WB-21850,213.0
+France,BS-11380,1110.0
+France,AJ-10795,119.0
+France,SC-20845,596.0
+France,TB-21250,1320.0
+France,VF-21715,305.0
+France,NL-18310,208.0
+France,JM-15265,409.0
+France,MG-17890,530.0
+France,Dl-13600,2156.0
+France,TB-21595,40.0
+France,BF-10975,1676.0
+France,JB-16000,662.0
+France,JF-15190,663.0
+France,SS-20515,393.0
+France,GH-14485,257.0
+France,AS-10225,3176.0
+France,DJ-13420,3956.0
+France,IG-15085,1473.0
+France,MB-18085,968.0
+France,CS-12505,503.0
+France,KH-16330,89.0
+France,SP-20650,63.0
+France,JG-15160,481.0
+France,CY-12745,1051.0
+France,JB-15400,1352.0
+Italy,LH-16900,111.0
+Germany,CC-12610,5428.0
+Germany,PS-19045,417.0
+Germany,AR-10510,170.0
+Germany,HD-14785,2631.0
+Germany,SF-20200,941.0
+Germany,CM-12160,534.0
+Germany,JE-15745,609.0
+Germany,LC-16930,793.0
+Germany,CT-11995,150.0
+Germany,LC-17140,1046.0
+Germany,CP-12340,602.0
+Germany,CM-11935,715.0
+Germany,JM-15535,24.0
+Germany,CA-12775,8.0
+Germany,GK-14620,352.0
+Germany,HZ-14950,959.0
+Germany,LW-17125,1060.0
+Germany,DS-13030,485.0
+Germany,SM-20905,1422.0
+Germany,NH-18610,1489.0
+Germany,RL-19615,133.0
+Germany,GD-14590,181.0
+Germany,JH-15430,251.0
+Germany,BG-11035,2603.0
+Germany,DH-13075,685.0
+Germany,ML-17410,1607.0
+Germany,FM-14215,1351.0
+Germany,DD-13570,2662.0
+Germany,GW-14605,13.0
+Germany,ES-14020,481.0
+Germany,SS-20875,38.0
+Germany,IM-15055,42.0
+Germany,CS-12130,1137.0
+Germany,MF-18250,262.0
+Germany,FH-14365,119.0
+Germany,RF-19840,1037.0
+Germany,SJ-20125,89.0
+Germany,JL-15130,101.0
+Germany,PB-19150,197.0
+Germany,LD-17005,181.0
+Germany,ND-18460,863.0
+Germany,SP-20620,224.0
+Germany,DB-13405,398.0
+Germany,JW-16075,3129.0
+Germany,MT-18070,977.0
+Germany,MZ-17335,158.0
+Germany,JE-15715,429.0
+Germany,RC-19825,1110.0
+Germany,TB-21520,41.0
+Germany,MO-17500,1749.0
+Germany,BM-11785,271.0
+Germany,NC-18625,506.0
+Germany,EL-13735,358.0
+Germany,AH-10195,17.0
+Germany,JG-15160,573.0
+Germany,BM-11140,989.0
+Germany,SL-20155,278.0
+Germany,AC-10450,1361.0
+Germany,PJ-18835,80.0
+Germany,MP-17470,3257.0
+Germany,MP-18175,1006.0
+Germany,AZ-10750,529.0
+Germany,AO-10810,527.0
+Germany,JW-15220,406.0
+Germany,CM-12715,45.0
+Germany,AG-10765,75.0
+Germany,SC-20305,162.0
+Germany,JR-15670,2040.0
+Germany,KN-16450,153.0
+Germany,DC-13285,2188.0
+Germany,HF-14995,426.0
+Germany,JA-15970,243.0
+Germany,DA-13450,90.0
+Germany,MG-18205,194.0
+Germany,LH-16900,207.0
+Germany,RB-19465,95.0
+Germany,BP-11290,3373.0
+Germany,DC-12850,862.0
+Germany,DG-13300,104.0
+Germany,SN-20560,264.0
+Germany,SM-20320,896.0
+Germany,CL-12700,811.0
+Germany,DB-12910,1228.0
+Germany,HL-15040,1306.0
+Germany,SG-20890,154.0
+Germany,HG-14845,26.0
+Germany,LC-16885,15.0
+Germany,PP-18955,640.0
+Germany,LE-16810,1934.0
+Germany,SD-20485,316.0
+Germany,MM-18055,3586.0
+Germany,LS-17230,1120.0
+Germany,JF-15355,162.0
+Germany,ME-17320,1481.0
+Germany,MT-17815,135.0
+Germany,BO-11425,752.0
+Germany,SC-20770,95.0
+Germany,TM-21490,1291.0
+Germany,JD-16015,38.0
+Germany,RD-19585,197.0
+Germany,OT-18730,376.0
+Germany,AF-10870,2359.0
+Germany,RB-19645,308.0
+Germany,GT-14635,1813.0
+Germany,BP-11155,74.0
+Germany,FA-14230,1958.0
+Germany,JD-15790,161.0
+Germany,MC-18100,238.0
+Germany,PB-19210,176.0
+Germany,KC-16255,261.0
+Germany,AH-10465,88.0
+Germany,AR-10570,98.0
+Germany,PO-18850,2536.0
+Germany,AS-10045,182.0
+Germany,TP-21130,1081.0
+Germany,FG-14260,99.0
+Germany,AY-10555,778.0
+Germany,PV-18985,524.0
+Germany,SC-20845,588.0
+Germany,AG-10525,1537.0
+Germany,AH-10030,283.0
+Germany,DW-13480,1152.0
+Germany,MO-17800,124.0
+Germany,CS-12400,47.0
+Germany,RA-19945,1118.0
+Germany,JL-15505,127.0
+Germany,ES-14080,1100.0
+Germany,SW-20455,127.0
+Germany,GH-14485,894.0
+Germany,MK-18160,551.0
+Germany,NW-18400,24.0
+Germany,VS-21820,45.0
+Germany,TS-21205,19.0
+Germany,DO-13645,488.0
+Germany,DL-13315,427.0
+Germany,KH-16510,143.0
+Germany,KN-16390,1527.0
+Germany,KT-16465,209.0
+Germany,DF-13135,679.0
+Germany,DW-13195,241.0
+Germany,TC-21145,655.0
+Germany,SC-20095,2166.0
+Germany,BS-11800,1360.0
+Germany,BD-11770,1375.0
+Germany,RD-19480,2366.0
+Germany,CA-12055,2215.0
+Germany,JF-15490,28.0
+Germany,MW-18220,520.0
+Germany,SU-20665,433.0
+Germany,DL-12925,117.0
+Germany,EB-13975,15.0
+Germany,JK-15640,234.0
+France,EB-14110,104.0
+France,MD-17860,224.0
+France,RK-19300,430.0
+France,BC-11125,430.0
+France,CP-12085,1041.0
+France,KH-16360,363.0
+France,DO-13435,453.0
+France,DB-13270,788.0
+France,DR-12940,1210.0
+France,CG-12520,1333.0
+France,AC-10420,274.0
+France,XP-21865,89.0
+France,DD-13570,288.0
+France,JM-15535,352.0
+France,CR-12625,660.0
+France,GM-14680,413.0
+France,AH-10690,137.0
+France,TH-21115,27.0
+France,TM-21010,344.0
+France,BM-11785,103.0
+France,RB-19795,63.0
+France,BE-11455,684.0
+France,NC-18340,1310.0
+France,JK-15625,259.0
+France,GB-14530,31.0
+France,JP-15520,2648.0
+France,SC-20305,1795.0
+France,AG-10675,588.0
+France,SS-20875,14.0
+France,BP-11290,326.0
+France,GD-14590,1132.0
+France,BD-11725,487.0
+France,MJ-17740,1253.0
+France,NP-18700,355.0
+France,NF-18595,817.0
+France,AC-10660,1210.0
+France,LH-16900,324.0
+France,DB-13120,29.0
+France,BF-11080,73.0
+France,GT-14635,85.0
+France,SU-20665,92.0
+France,CM-12115,256.0
+France,AH-10120,1029.0
+France,JH-15820,828.0
+France,ST-20530,117.0
+France,DP-13165,2311.0
+France,KL-16645,643.0
+France,RW-19630,653.0
+France,JD-15895,25.0
+France,DP-13105,904.0
+France,JL-15850,140.0
+France,VG-21790,1879.0
+France,SP-20860,4306.0
+France,JG-15805,1399.0
+France,MC-17590,403.0
+France,EH-14005,36.0
+France,JB-16045,322.0
+France,CS-12130,1191.0
+France,EH-14185,729.0
+France,HG-15025,172.0
+France,BT-11440,379.0
+France,MG-17695,1168.0
+France,JS-15595,164.0
+France,RF-19840,2088.0
+France,RB-19435,21.0
+France,GM-14455,331.0
+France,GK-14620,2176.0
+France,AG-10270,1153.0
+France,JA-15970,421.0
+France,KC-16540,826.0
+France,PC-19000,150.0
+France,TZ-21445,1323.0
+France,FM-14290,690.0
+France,DK-13225,163.0
+France,KN-16705,16.0
+France,BN-11470,116.0
+France,KB-16585,436.0
+France,LW-16825,1914.0
+France,SH-20635,163.0
+France,NP-18325,306.0
+France,TS-21205,84.0
+France,KN-16450,980.0
+France,ML-17395,56.0
+France,MM-18280,93.0
+France,SW-20350,37.0
+France,BB-11545,46.0
+France,AB-10600,344.0
+France,SV-20365,2018.0
+France,TH-21550,174.0
+France,JL-15235,2296.0
+France,MC-17575,298.0
+France,AA-10645,605.0
+France,DL-12865,52.0
+France,HR-14770,173.0
+France,JM-15250,2959.0
+France,DL-13315,940.0
+France,LH-17155,4786.0
+France,LB-16735,26.0
+France,DA-13450,1223.0
+France,BF-11215,1263.0
+France,MG-17650,1296.0
+France,DK-13375,227.0
+France,TB-21520,942.0
+France,CC-12685,225.0
+France,SS-20140,1223.0
+France,SZ-20035,57.0
+France,JS-15940,120.0
+France,SD-20485,1199.0
+France,JD-15790,284.0
